@@ -1,0 +1,1048 @@
+/* ==========================================================================
+   The Story of Montsoriu - Main Design System & Stylesheet
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   Design Tokens & CSS Variables
+   -------------------------------------------------------------------------- */
+/* --------------------------------------------------------------------------
+   Design Tokens & CSS Variables (Dark by Default, Light with [data-theme="light"])
+   -------------------------------------------------------------------------- */
+:root,
+[data-theme="dark"] {
+  /* Color Palette - Dark Obsidian Edition */
+  --bg-main: #0c1015;
+  --bg-surface: #141c24;
+  --bg-surface-elevated: #1b2632;
+  --bg-card: rgba(22, 32, 42, 0.75);
+  --bg-glass: rgba(18, 26, 36, 0.85);
+
+  --text-primary: #f2eee6;
+  --text-secondary: #c2cbd6;
+  --text-muted: #8594a6;
+
+  --accent-gold: #e5a947;
+  --accent-gold-light: #f5c86e;
+  --accent-gold-glow: rgba(229, 169, 71, 0.25);
+  --accent-amber: #d97736;
+  --accent-emerald: #3b7a57;
+
+  --border-subtle: rgba(255, 255, 255, 0.08);
+  --border-gold: rgba(229, 169, 71, 0.3);
+  --border-gold-strong: rgba(229, 169, 71, 0.6);
+
+  --body-radial-1: rgba(229, 169, 71, 0.08);
+  --body-radial-2: rgba(59, 122, 87, 0.06);
+  --body-radial-3: rgba(217, 119, 54, 0.05);
+
+  /* Typography */
+  --font-display: "Cinzel", "Cinzel Decorative", Georgia, "Times New Roman", serif;
+  --font-reading: "Lora", "Merriweather", Georgia, serif;
+  --font-ui: "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.6);
+  --shadow-book:
+    -10px 10px 25px rgba(0, 0, 0, 0.6),
+    0 20px 45px rgba(0, 0, 0, 0.7),
+    0 0 60px rgba(229, 169, 71, 0.12);
+
+  /* Layout & Spacing */
+  --container-max: 1100px;
+  --container-reading: 740px;
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --radius-book: 8px 16px 16px 8px;
+
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-smooth: 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+[data-theme="light"] {
+  /* Color Palette - Warm Antique Parchment Edition */
+  --bg-main: #f9f6ef;
+  --bg-surface: #f0eae0;
+  --bg-surface-elevated: #e6ddd0;
+  --bg-card: rgba(240, 234, 224, 0.85);
+  --bg-glass: rgba(249, 246, 239, 0.92);
+
+  --text-primary: #231b14;
+  --text-secondary: #4a3e33;
+  --text-muted: #796b5e;
+
+  --accent-gold: #b37318;
+  --accent-gold-light: #8e580e;
+  --accent-gold-glow: rgba(179, 115, 24, 0.2);
+  --accent-amber: #b54f12;
+  --accent-emerald: #286043;
+
+  --border-subtle: rgba(35, 27, 20, 0.1);
+  --border-gold: rgba(179, 115, 24, 0.35);
+  --border-gold-strong: rgba(179, 115, 24, 0.65);
+
+  --body-radial-1: rgba(179, 115, 24, 0.06);
+  --body-radial-2: rgba(40, 96, 67, 0.04);
+  --body-radial-3: rgba(181, 79, 18, 0.04);
+
+  --shadow-sm: 0 2px 8px rgba(35, 27, 20, 0.08);
+  --shadow-md: 0 8px 24px rgba(35, 27, 20, 0.12);
+  --shadow-lg: 0 16px 40px rgba(35, 27, 20, 0.18);
+}
+
+/* --------------------------------------------------------------------------
+   Reset & Global Styles
+   -------------------------------------------------------------------------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+  transition: background-color var(--transition-fast), color var(--transition-fast);
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-ui);
+  line-height: 1.6;
+  background:
+    radial-gradient(ellipse 80% 60% at 50% -10%, var(--body-radial-1), transparent 70%),
+    radial-gradient(ellipse 60% 40% at 85% 30%, var(--body-radial-2), transparent 60%),
+    radial-gradient(ellipse 70% 50% at 10% 70%, var(--body-radial-3), transparent 60%),
+    var(--bg-main);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color var(--transition-fast), color var(--transition-fast);
+}
+
+img,
+picture {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+a {
+  color: var(--accent-gold-light);
+  text-decoration: none;
+  transition: color var(--transition-fast), border-color var(--transition-fast);
+}
+
+[data-theme="light"] a {
+  color: var(--accent-gold);
+}
+
+a:hover {
+  color: var(--accent-gold);
+}
+
+[data-theme="light"] a:hover {
+  color: #000000;
+}
+
+/* --------------------------------------------------------------------------
+   Header & Navigation
+   -------------------------------------------------------------------------- */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  background: var(--bg-glass);
+  border-bottom: 1px solid var(--border-subtle);
+  padding: 0.75rem 1.5rem;
+  transition: background var(--transition-fast), border-color var(--transition-fast);
+}
+
+.cover-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: transparent;
+  border-bottom: 1px solid transparent;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  z-index: 100;
+  transition: background var(--transition-fast), border-color var(--transition-fast), backdrop-filter var(--transition-fast);
+}
+
+.cover-header.is-scrolled {
+  background: var(--bg-glass);
+  border-bottom-color: var(--border-subtle);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+}
+
+.cover-header .brand-name {
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.85);
+}
+
+.cover-header .brand-tagline {
+  color: rgba(255, 255, 255, 0.75);
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.85);
+}
+
+.header-inner {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.brand-link {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  color: var(--text-primary);
+}
+
+.brand-link:hover {
+  color: var(--accent-gold-light);
+}
+
+.brand-logo {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.5));
+  transition: transform var(--transition-smooth);
+}
+
+.brand-link:hover .brand-logo {
+  transform: scale(1.08) rotate(-3deg);
+}
+
+.brand-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-name {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  background: linear-gradient(135deg, #ffffff 40%, var(--accent-gold-light) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+[data-theme="light"] .brand-name {
+  background: linear-gradient(135deg, #231b14 40%, var(--accent-gold) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+[data-theme="light"] .cover-header .brand-name {
+  background: linear-gradient(135deg, #ffffff 40%, var(--accent-gold-light) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.85);
+}
+
+.brand-tagline {
+  font-size: 0.72rem;
+  color: var(--text-muted);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+/* Theme Toggle Button */
+.theme-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 1px solid var(--border-subtle);
+  background: rgba(18, 26, 36, 0.65);
+  color: var(--accent-gold-light);
+  cursor: pointer;
+  transition: all var(--transition-smooth);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  padding: 0;
+}
+
+/* On the cover page, toggle is hidden while cover is closed, and fades in as the cover opens */
+.cover-header .theme-toggle-btn {
+  opacity: 0;
+  pointer-events: none;
+  transform: scale(0.85);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+[data-theme="light"] .theme-toggle-btn {
+  background: rgba(240, 234, 224, 0.85);
+  color: var(--accent-gold);
+  border-color: var(--border-gold);
+}
+
+.theme-toggle-btn:hover {
+  transform: scale(1.08) rotate(12deg);
+  border-color: var(--accent-gold);
+  box-shadow: 0 0 16px var(--accent-gold-glow);
+}
+
+.theme-icon {
+  width: 20px;
+  height: 20px;
+}
+
+.sun-icon {
+  display: block;
+}
+
+.moon-icon {
+  display: none;
+}
+
+[data-theme="light"] .sun-icon {
+  display: none;
+}
+
+[data-theme="light"] .moon-icon {
+  display: block;
+}
+
+/* --------------------------------------------------------------------------
+   Buttons
+   -------------------------------------------------------------------------- */
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  padding: 0.75rem 1.6rem;
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  font-weight: 600;
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all var(--transition-smooth);
+  border: 1px solid transparent;
+  white-space: nowrap;
+  line-height: 1;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--accent-gold) 0%, #c48a30 100%);
+  color: #120e06;
+  box-shadow: 0 4px 16px var(--accent-gold-glow), 0 2px 4px rgba(0, 0, 0, 0.3);
+  font-weight: 700;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, var(--accent-gold-light) 0%, var(--accent-gold) 100%);
+  color: #0d0a03;
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(229, 169, 71, 0.4), 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.btn-secondary {
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-primary);
+  border: 1px solid var(--border-subtle);
+  backdrop-filter: blur(8px);
+}
+
+[data-theme="light"] .btn-secondary {
+  background: rgba(35, 27, 20, 0.06);
+  color: var(--text-primary);
+  border-color: var(--border-subtle);
+}
+
+.btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-color: var(--border-gold);
+  color: var(--accent-gold-light);
+  transform: translateY(-2px);
+}
+
+[data-theme="light"] .btn-secondary:hover {
+  background: rgba(35, 27, 20, 0.1);
+  border-color: var(--border-gold);
+  color: var(--accent-gold);
+}
+
+.btn-sm {
+  padding: 0.5rem 1rem;
+  font-size: 0.85rem;
+}
+
+.btn-icon {
+  width: 18px;
+  height: 18px;
+}
+
+/* --------------------------------------------------------------------------
+   3D Book Experience & Seamless Page Canvas
+   -------------------------------------------------------------------------- */
+.book-experience-track {
+  position: relative;
+  width: 100%;
+  height: 180vh;
+  background-color: var(--bg-main);
+}
+
+.book-stage {
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
+  perspective: 1800px;
+  transform-style: preserve-3d;
+  background-color: var(--bg-main);
+}
+
+/* The Reading Canvas Directly Revealed Under the Cover Leaf */
+.book-page-canvas {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5.5rem 1.5rem 4rem;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  background-color: var(--bg-main);
+  transition: background-color var(--transition-smooth);
+}
+
+.book-page-inner {
+  max-width: var(--container-reading);
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2.5rem;
+}
+
+/* 3D Turning Front Cover Leaf */
+.book-cover-leaf {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  transform-origin: left center;
+  transform-style: preserve-3d;
+  will-change: transform;
+  box-shadow: 20px 0 50px rgba(0, 0, 0, 0.8);
+  pointer-events: auto;
+}
+
+.book-cover-face {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+
+/* Front side of the cover leaf */
+.book-cover-front {
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  overflow: hidden;
+  padding: 6rem 1.5rem 5.5rem;
+  background-color: #0c1015;
+}
+
+.hero-bg-container {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  overflow: hidden;
+}
+
+.hero-bg-container picture,
+.hero-bg-img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  transform: scale(1.02);
+}
+
+.hero-overlay {
+  display: none;
+}
+
+/* Dynamic 3D lighting shadow on front leaf */
+.book-leaf-shade-front {
+  position: absolute;
+  inset: 0;
+  z-index: 8;
+  pointer-events: none;
+  opacity: 0;
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.85) 0%, rgba(0, 0, 0, 0.45) 30%, transparent 75%);
+  transition: opacity 0.05s linear;
+}
+
+/* Back side of the cover leaf (Vintage Endpaper / Dark Parchment) */
+.book-cover-back {
+  transform: rotateY(180deg);
+  z-index: 1;
+  background:
+    radial-gradient(ellipse at center, #172330 0%, #0d141b 60%, #06090c 100%);
+  border-right: 4px solid var(--accent-gold);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: inset 30px 0 60px rgba(0, 0, 0, 0.95), 0 0 40px rgba(0, 0, 0, 0.9);
+}
+
+.back-endpaper-pattern {
+  position: absolute;
+  inset: 0;
+  opacity: 0.08;
+  background-image:
+    radial-gradient(var(--accent-gold) 1px, transparent 0),
+    linear-gradient(45deg, rgba(229, 169, 71, 0.05) 25%, transparent 25%, transparent 75%, rgba(229, 169, 71, 0.05) 75%);
+  background-size: 32px 32px;
+}
+
+.back-bookplate {
+  position: relative;
+  z-index: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 0.6rem;
+  padding: 2.5rem 3rem;
+  border: 1.5px solid var(--border-gold);
+  border-radius: var(--radius-md);
+  background: rgba(12, 16, 21, 0.85);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.7), 0 0 20px rgba(229, 169, 71, 0.15);
+}
+
+.back-bookplate-logo {
+  width: 60px;
+  height: auto;
+  opacity: 0.85;
+}
+
+.back-bookplate-title {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #f2eee6;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.back-bookplate-subtitle {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent-gold);
+}
+
+/* Spine Hinge Line */
+.book-spine-hinge {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 5px;
+  z-index: 25;
+  background: linear-gradient(180deg, var(--accent-gold) 0%, #9e681c 50%, var(--accent-gold) 100%);
+  box-shadow: 0 0 12px rgba(229, 169, 71, 0.5), inset 0 0 2px rgba(255, 255, 255, 0.4);
+}
+
+/* Elements over cover image (continuous solid outline + soft depth shadow) */
+.is-over-image,
+h1.is-over-image,
+p.is-over-image {
+  text-shadow:
+    -1.5px -1.5px 0 #000000,
+     0px   -1.5px 0 #000000,
+     1.5px -1.5px 0 #000000,
+    -1.5px  0px   0 #000000,
+     1.5px  0px   0 #000000,
+    -1.5px  1.5px 0 #000000,
+     0px    1.5px 0 #000000,
+     1.5px  1.5px 0 #000000,
+     0px    2px   6px rgba(0, 0, 0, 0.9),
+     0px    0px  12px rgba(0, 0, 0, 0.7);
+}
+
+/* Stacked content in the second vertical half of the cover */
+.cover-content-stack {
+  position: relative;
+  z-index: 5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  max-width: 860px;
+  width: 100%;
+  gap: 1.15rem;
+  margin-top: auto;
+  margin-bottom: 2.5rem;
+  animation: fadeInCover 1.1s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+@keyframes fadeInCover {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.cover-logo-wrap {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0.1rem;
+}
+
+.cover-hero-logo {
+  width: 90px;
+  height: auto;
+  filter: drop-shadow(0 4px 16px rgba(0, 0, 0, 0.8));
+  transition: transform var(--transition-smooth);
+}
+
+.cover-hero-logo:hover {
+  transform: scale(1.08) rotate(-2deg);
+}
+
+.cover-hero-title {
+  font-family: var(--font-display);
+  font-size: clamp(2.4rem, 6.5vw, 4.2rem);
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  line-height: 1.12;
+  color: #ffffff;
+}
+
+.cover-hero-tagline {
+  font-family: var(--font-reading);
+  font-size: clamp(1.1rem, 2.5vw, 1.45rem);
+  font-style: italic;
+  color: #f7edd8;
+  max-width: 680px;
+  line-height: 1.5;
+  letter-spacing: 0.01em;
+}
+
+/* Floating Action Button */
+.cover-hero-action {
+  position: absolute;
+  bottom: 3.5rem;
+  left: 50%;
+  transform: translate(-50%, 0);
+  z-index: 30;
+  pointer-events: auto;
+  transition: opacity 0.15s ease, transform 0.15s ease;
+}
+
+.btn-journey {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.85rem;
+  padding: 0.95rem 2.4rem;
+  font-family: var(--font-ui);
+  font-size: 1.05rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--accent-gold-light);
+  background: rgba(18, 26, 36, 0.82);
+  border: 1.5px solid var(--border-gold);
+  border-radius: 50px;
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  box-shadow:
+    0 8px 30px rgba(0, 0, 0, 0.6),
+    0 0 25px var(--accent-gold-glow);
+  cursor: pointer;
+  transition: all var(--transition-smooth);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+[data-theme="light"] .btn-journey {
+  color: #ffffff;
+  background: rgba(35, 27, 20, 0.85);
+  border-color: var(--accent-gold);
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+}
+
+.btn-journey:hover {
+  background: linear-gradient(135deg, var(--accent-gold) 0%, #c48a30 100%);
+  color: #0c0a04;
+  border-color: var(--accent-gold-light);
+  transform: translateY(-3px);
+  box-shadow:
+    0 14px 35px rgba(229, 169, 71, 0.45),
+    0 4px 14px rgba(0, 0, 0, 0.7);
+  text-shadow: none;
+}
+
+.journey-chevron {
+  width: 20px;
+  height: 20px;
+  animation: journeyBounce 2.2s ease-in-out infinite;
+}
+
+@keyframes journeyBounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+
+  50% {
+    transform: translateY(5px);
+  }
+}
+
+/* --------------------------------------------------------------------------
+   The Reading Canvas Directly Revealed Under the Cover Leaf
+   -------------------------------------------------------------------------- */
+.book-page-canvas {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  min-height: 100vh;
+  padding: 6.5rem 1.5rem 5rem;
+  background-color: var(--bg-main);
+  transition: background-color var(--transition-smooth);
+}
+
+.book-page-inner {
+  max-width: var(--container-reading);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 3.5rem;
+}
+
+/* Prose Book Typography (Clean page reading, no box frame) */
+.prose {
+  font-family: var(--font-reading);
+  font-size: 1.2rem;
+  line-height: 1.85;
+  color: var(--text-primary);
+  transition: color var(--transition-smooth);
+}
+
+.prose p {
+  margin-bottom: 1.8rem;
+}
+
+.prose p:last-child {
+  margin-bottom: 0;
+}
+
+/* Elegant Drop Cap for the first letter of the prologue */
+.prose p:first-of-type::first-letter {
+  font-family: var(--font-display);
+  float: left;
+  font-size: 3.8rem;
+  line-height: 0.8;
+  padding-top: 0.1em;
+  padding-right: 0.25em;
+  padding-bottom: 0.05em;
+  color: var(--accent-gold-light);
+  font-weight: 700;
+  text-shadow: 0 2px 10px rgba(229, 169, 71, 0.3);
+}
+
+[data-theme="light"] .prose p:first-of-type::first-letter {
+  color: var(--accent-gold);
+  text-shadow: none;
+}
+
+/* --------------------------------------------------------------------------
+   Featured Chapter Card
+   -------------------------------------------------------------------------- */
+.chapter-cta-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-gold);
+  border-radius: var(--radius-lg);
+  padding: 2.2rem 2.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  box-shadow: var(--shadow-md);
+  position: relative;
+  overflow: hidden;
+  transition: background-color var(--transition-smooth), border-color var(--transition-smooth);
+}
+
+[data-theme="light"] .chapter-cta-card {
+  background: var(--bg-surface);
+  border-color: var(--border-gold);
+  box-shadow: 0 8px 24px rgba(35, 27, 20, 0.08);
+}
+
+.chapter-cta-card::after {
+  content: "";
+  position: absolute;
+  top: -50px;
+  right: -50px;
+  width: 150px;
+  height: 150px;
+  background: radial-gradient(circle, rgba(229, 169, 71, 0.15) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.chapter-cta-content h3 {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.chapter-cta-content p {
+  color: var(--text-secondary);
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.chapter-cta-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.chapter-cta-meta {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+@media (max-width: 768px) {
+  .book-cover-stage {
+    perspective: 1400px;
+  }
+
+  .cover-hero-action {
+    bottom: 2.8rem;
+  }
+
+  .cover-content-stack {
+    margin-bottom: 3.5rem;
+  }
+
+  .book-page-canvas {
+    padding: 5.5rem 1.25rem 4rem;
+  }
+
+  .chapter-cta-card {
+    padding: 1.75rem 1.5rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .book-cover-stage {
+    position: relative;
+    height: 100vh;
+  }
+
+  .book-cover-leaf {
+    transform: none !important;
+  }
+}
+
+/* --------------------------------------------------------------------------
+   Chapter Layout Styles (for chapter.njk)
+   -------------------------------------------------------------------------- */
+.chapter-container {
+  max-width: var(--container-reading);
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
+
+.chapter-header {
+  margin-bottom: 3rem;
+  text-align: center;
+}
+
+.chapter-header h1 {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 4vw, 2.8rem);
+  color: #ffffff;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.chapter-meta-bar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  color: var(--accent-gold-light);
+  font-size: 0.9rem;
+}
+
+.chapter-meta-bar span {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.chapter-prose {
+  font-family: var(--font-reading);
+  font-size: 1.18rem;
+  line-height: 1.85;
+  color: var(--text-primary);
+}
+
+.chapter-prose p {
+  margin-bottom: 1.6rem;
+}
+
+.chapter-prose img {
+  border-radius: var(--radius-md);
+  margin: 2.5rem auto;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--border-subtle);
+}
+
+.chapter-nav {
+  margin-top: 4rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border-subtle);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+/* --------------------------------------------------------------------------
+   Footer
+   -------------------------------------------------------------------------- */
+.site-footer {
+  margin-top: auto;
+  border-top: 1px solid var(--border-subtle);
+  background: var(--bg-surface);
+  padding: 2.5rem 1.5rem;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.footer-inner {
+  max-width: var(--container-max);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer-logo {
+  width: 32px;
+  height: 32px;
+  opacity: 0.7;
+  filter: grayscale(40%);
+  transition: opacity var(--transition-fast), filter var(--transition-fast);
+}
+
+.footer-logo:hover {
+  opacity: 1;
+  filter: grayscale(0%);
+}
+
+.footer-text {
+  max-width: 480px;
+  line-height: 1.5;
+}
+
+.footer-castle-note {
+  font-style: italic;
+  color: var(--accent-gold);
+}
+
+/* --------------------------------------------------------------------------
+   Responsive Adjustments
+   -------------------------------------------------------------------------- */
+@media (max-width: 640px) {
+  .site-header {
+    padding: 0.6rem 1rem;
+  }
+
+  .book-cover-hero {
+    padding: 5rem 1rem 3.5rem;
+  }
+
+  .cover-hero-logo {
+    width: 72px;
+  }
+
+  .btn-journey {
+    padding: 0.85rem 1.8rem;
+    font-size: 0.98rem;
+  }
+
+  .teaser-section {
+    padding: 2.5rem 1rem 3.5rem;
+  }
+
+  .teaser-card {
+    padding: 1.75rem 1.25rem;
+  }
+
+  .prose {
+    font-size: 1.08rem;
+    line-height: 1.75;
+  }
+
+  .chapter-cta-card {
+    padding: 1.5rem 1.25rem;
+  }
+}
