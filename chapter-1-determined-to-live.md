@@ -1,6 +1,6 @@
 ---
 layout: chapter.njk
-title: "Determined to Live"
+title: Determined to Live
 number: 1
 date: 2018-09-14
 location: Near the castle Montsoriu

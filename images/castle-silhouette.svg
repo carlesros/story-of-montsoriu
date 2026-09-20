@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="currentColor">
+  <!-- Central Keep (Torre de l'Homenatge) Flag -->
+  <path d="M17 1v4.5h4.5L17 1z"/>
+  <!-- Castle Fortress Structure -->
+  <path fill-rule="evenodd" clip-rule="evenodd" d="
+    M4 8.5h2v2h2v-2h2v5.5h2V4.5h2v2h2v-2h2v2h2v-2h2v9.5h2v-5.5h2v2h2v-2h2v17.5H4V8.5z
+    M6.2 14h1.6v4H6.2v-4z
+    M24.2 14h1.6v4h-1.6v-4z
+    M16 8.5h2v3.5h-2V8.5z
+    M14.5 26v-5a2.5 2.5 0 0 1 5 0v5h-5z
+  "/>
+  <!-- Foundation Base -->
+  <rect x="2" y="26" width="28" height="2" rx="1"/>
+</svg>
