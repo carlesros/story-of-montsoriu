@@ -18,6 +18,21 @@ module.exports = function(eleventyConfig) {
     }
   });
 
+  // Format date for chapter header (e.g. "September 14, 2018")
+  eleventyConfig.addFilter("formatChapterDate", function(dateVal) {
+    if (!dateVal) return "";
+    const d = new Date(dateVal);
+    if (isNaN(d.getTime())) return String(dateVal);
+    const months = [
+      "January", "February", "March", "April", "May", "June",
+      "July", "August", "September", "October", "November", "December"
+    ];
+    const month = months[d.getUTCMonth()];
+    const day = d.getUTCDate();
+    const year = d.getUTCFullYear();
+    return `${month} ${day}, ${year}`;
+  });
+
   return {
     dir: {
       input: ".",

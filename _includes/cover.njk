@@ -28,7 +28,7 @@
   <!-- Google Fonts Preconnect & Stylesheets -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Great+Vibes&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
   <!-- Main Stylesheet -->
   <link rel="stylesheet" href="/css/style.css">
@@ -66,85 +66,36 @@
   </header>
 
   <main>
-    <div class="book-experience-track" id="book-track">
-      <div class="book-stage" id="book-stage">
-        
-        <!-- The Reading Page Directly Revealed Under the Cover Leaf -->
-        <div class="book-page-canvas" id="prologue" aria-label="Prologue">
-          <div class="book-page-inner">
-            <!-- Pure Prologue Text (Direct on the page, no outer box, no extra titles) -->
-            <div class="prose prologue-prose">
-              {{ content | safe }}
-            </div>
+    <div class="book-experience" id="book-experience">
+      <!-- Fixed Background Cover Image (Fades out as user scrolls) -->
+      <div class="cover-bg-fixed" id="cover-bg" aria-hidden="true">
+        <img src="/images/portada.jpg" 
+             alt="Cover photograph of Montsoriu the cat standing gracefully in a sunlit tree" 
+             class="hero-bg-img"
+             fetchpriority="high"
+             loading="eager"
+             sizes="100vw"
+             eleventy:widths="600,1000,1600,2200"
+             eleventy:formats="avif,webp,jpeg">
+      </div>
 
-            <!-- Featured Chapter Callout -->
-            <div class="chapter-cta-card">
-              <div class="chapter-cta-content">
-                <div class="badge-row" style="margin-bottom: 0.5rem;">
-                  <span class="badge">Chapter 1</span>
-                  <span class="badge badge-castle">Near Montsoriu Castle</span>
-                </div>
-                <h3>Chapter 1: Determined to Live</h3>
-                <p>
-                  Weak, hurt, and lost in the dense woods under the shadow of the fortress, a hungry kitten hears strange footsteps echoing through the trees...
-                </p>
-              </div>
-              <div class="chapter-cta-footer">
-                <span class="chapter-cta-meta">Published • 10 min read</span>
-                <a href="/chapter-1-determined-to-live/" class="btn btn-primary btn-sm">
-                  Start Chapter 1 →
-                </a>
-              </div>
-            </div>
+      <!-- Cover Hero Section (Takes initial full viewport) -->
+      <section class="cover-hero-section" id="cover-hero" aria-label="Book Cover">
+        <div class="cover-content-stack" id="cover-content">
+          <div class="cover-logo-wrap">
+            <img src="/images/logo.png" 
+                 alt="Montsoriu cat silhouette in front of the rising sun" 
+                 class="cover-hero-logo" 
+                 width="88" 
+                 height="85">
           </div>
+
+          <h1 class="cover-hero-title is-over-image">{{ title }}</h1>
+          
+          <p class="cover-hero-tagline is-over-image">One homeless cat. One legendary castle. A shared destiny.</p>
         </div>
 
-        <!-- 3D Turning Front Cover Leaf (Pinned to viewport during opening) -->
-        <div class="book-cover-leaf" id="cover-leaf">
-          <!-- Front Face of the Cover Leaf -->
-          <div class="book-cover-face book-cover-front">
-            <div class="hero-bg-container">
-              <img src="/images/portada.jpg" 
-                   alt="Cover photograph of Montsoriu the cat standing gracefully in a sunlit tree" 
-                   class="hero-bg-img"
-                   fetchpriority="high"
-                   loading="eager"
-                   sizes="100vw"
-                   eleventy:widths="600,1000,1600,2200"
-                   eleventy:formats="avif,webp,jpeg">
-            </div>
-
-            <!-- Content pinned to the front cover leaf -->
-            <div class="cover-content-stack">
-              <div class="cover-logo-wrap">
-                <img src="/images/logo.png" 
-                     alt="Montsoriu cat silhouette in front of the rising sun" 
-                     class="cover-hero-logo" 
-                     width="88" 
-                     height="85">
-              </div>
-
-              <h1 class="cover-hero-title is-over-image">{{ title }}</h1>
-              
-              <p class="cover-hero-tagline is-over-image">One homeless cat. One legendary castle. A shared destiny.</p>
-            </div>
-
-            <!-- Dynamic shading overlay as leaf turns away from light -->
-            <div class="book-leaf-shade-front" id="leaf-shade-front"></div>
-          </div>
-
-          <!-- Back Face of the Cover Leaf (Vintage Endpaper / Dark Parchment) -->
-          <div class="book-cover-face book-cover-back" aria-hidden="true">
-            <div class="back-endpaper-pattern"></div>
-            <div class="back-bookplate">
-              <img src="/images/logo.png" alt="" class="back-bookplate-logo" width="60" height="58">
-              <span class="back-bookplate-title">The Story of Montsoriu</span>
-              <span class="back-bookplate-subtitle">Digital Edition</span>
-            </div>
-          </div>
-        </div>
-
-        <!-- Call to Action Button: Pinned to stage, fades out smoothly on scroll -->
+        <!-- Call to Action Button: Fades out quickly on initial scroll -->
         <div class="cover-hero-action" id="cover-action">
           <a href="#prologue" class="btn btn-journey" id="btn-begin-voyage" aria-label="Begin her voyage">
             <svg class="journey-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
@@ -156,10 +107,56 @@
             </svg>
           </a>
         </div>
+      </section>
 
-        <!-- Left spine hinge line -->
-        <div class="book-spine-hinge" aria-hidden="true"></div>
-      </div>
+      <!-- The Reading Page Canvas (Prologue text & Featured Chapter Card) -->
+      <section class="book-page-canvas" id="prologue" aria-label="Prologue">
+        <div class="book-page-inner" id="page-inner">
+          <!-- Pure Prologue Text -->
+          <div class="prose prologue-prose">
+            {{ content | safe }}
+          </div>
+
+          <!-- Featured Chapter Callout with Translucid Glass & Cover Image -->
+          {% set ch1 = collections.all | selectattr("url", "equalto", "/chapter-1-determined-to-live/") | first %}
+          {% set ch1Cover = (ch1.data.cover if ch1 and ch1.data.cover else "/images/capitol01/castell-sense-torra.jpg") %}
+          {% set ch1Title = (ch1.data.title if ch1 and ch1.data.title else "Determined to Live") %}
+          {% set ch1Number = (ch1.data.number if ch1 and ch1.data.number else 1) %}
+          <div class="chapter-cta-card">
+            <!-- Background Image from Chapter Frontmatter -->
+            <div class="chapter-cta-bg-wrap" aria-hidden="true">
+              <img src="{{ ch1Cover }}" 
+                   alt="" 
+                   class="chapter-cta-bg-img" 
+                   loading="lazy" 
+                   sizes="(max-width: 768px) 100vw, 740px"
+                   eleventy:widths="400,750,1100" 
+                   eleventy:formats="avif,webp,jpeg">
+            </div>
+
+            <!-- Translucid Glass Overlay Layer -->
+            <div class="chapter-cta-glass-overlay" aria-hidden="true"></div>
+
+            <!-- Content Layer -->
+            <div class="chapter-cta-content">
+              {% if ch1Number %}
+                <span class="chapter-cta-number">CHAPTER {{ ch1Number }}</span>
+              {% endif %}
+              <h3 class="chapter-cta-title">{{ ch1Title }}</h3>
+              <p class="chapter-cta-desc">
+                Weak, hurt, and lost in the dense woods under the shadow of the fortress, a hungry kitten hears strange footsteps echoing through the trees...
+              </p>
+            </div>
+
+            <div class="chapter-cta-footer">
+              <span class="chapter-cta-meta">Published • 10 min read</span>
+              <a href="/chapter-1-determined-to-live/" class="btn btn-primary btn-sm">
+                Start Chapter {{ ch1Number }} →
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
     </div>
   </main>
 
@@ -179,7 +176,7 @@
     </div>
   </footer>
 
-  <!-- Scroll-Driven 3D Page Turn & Theme Script -->
+  <!-- Scroll Parallax, Fade & Theme Script -->
   <script>
     (function() {
       // 1. Theme Toggle Logic
@@ -206,71 +203,80 @@
         });
       }
 
-      // 2. Scroll-Driven 3D Book Page Turn
-      var track = document.getElementById('book-track');
-      var leaf = document.getElementById('cover-leaf');
-      var action = document.getElementById('cover-action');
-      var shade = document.getElementById('leaf-shade-front');
+      // 2. Parallax, Faster Scroll-up & Fading on Scroll
+      var coverBg = document.getElementById('cover-bg');
+      var coverContent = document.getElementById('cover-content');
+      var coverAction = document.getElementById('cover-action');
+      var header = document.querySelector('.cover-header');
       var btn = document.getElementById('btn-begin-voyage');
-
-      if (!track || !leaf) return;
 
       var ticking = false;
 
-      function updatePageTurn() {
-        var rect = track.getBoundingClientRect();
-        var trackHeight = track.offsetHeight;
-        var windowHeight = window.innerHeight;
-        var totalScrollable = trackHeight - windowHeight;
+      function updateScrollEffects() {
+        var scrolled = window.pageYOffset || document.documentElement.scrollTop || 0;
+        var winH = window.innerHeight || 800;
 
-        if (totalScrollable <= 0) {
-          ticking = false;
-          return;
+        // Check for reduced motion preference
+        var prefersReduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+        // A. Fixed Cover Background Image Fade-Out
+        var bgFadeDist = winH * 0.9;
+        var bgProgress = Math.min(Math.max(scrolled / bgFadeDist, 0), 1);
+        var bgOpacity = Math.max(1 - bgProgress, 0);
+
+        if (coverBg) {
+          coverBg.style.opacity = bgOpacity;
+          if (bgOpacity <= 0) {
+            coverBg.style.visibility = 'hidden';
+          } else {
+            coverBg.style.visibility = 'visible';
+          }
         }
 
-        var scrolled = -rect.top;
-        var rawProgress = scrolled / totalScrollable;
-        var progress = Math.min(Math.max(rawProgress, 0), 1);
+        // B. Logo / Title / Tagline: Scrolls up FASTER than text while fading out
+        // Extra translation of -0.6 * scrolled makes it move at ~1.6x scroll speed, sliding smoothly under top nav
+        var contentFadeDist = winH * 0.85;
+        var contentProgress = Math.min(Math.max(scrolled / contentFadeDist, 0), 1);
+        var contentOpacity = Math.max(1 - contentProgress, 0);
 
-        // Turn angle from 0deg to -125deg (smooth 3D book cover open)
-        var angle = progress * -125;
-        leaf.style.transform = 'rotateY(' + angle + 'deg)';
-
-        // Dynamic shading as the cover turns
-        if (shade) {
-          shade.style.opacity = Math.min(progress * 1.3, 0.75);
+        if (coverContent) {
+          coverContent.style.opacity = contentOpacity;
+          if (!prefersReduced) {
+            var extraTranslateY = -scrolled * 0.6;
+            coverContent.style.transform = 'translate3d(0, ' + extraTranslateY + 'px, 0)';
+          }
+          if (contentOpacity <= 0) {
+            coverContent.style.visibility = 'hidden';
+          } else {
+            coverContent.style.visibility = 'visible';
+          }
         }
 
-        // Button smoothly fades out during initial scroll
-        if (action) {
-          var btnOpacity = Math.max(1 - progress * 4.5, 0);
-          action.style.opacity = btnOpacity;
-          action.style.pointerEvents = btnOpacity < 0.05 ? 'none' : 'auto';
-          action.style.transform = 'translate(-50%, ' + (progress * 24) + 'px)';
+        // C. Button ("Begin her voyage"): Fades out quickly on initial scroll
+        var btnFadeDist = Math.min(winH * 0.2, 150);
+        var btnProgress = Math.min(Math.max(scrolled / btnFadeDist, 0), 1);
+        var btnOpacity = Math.max(1 - btnProgress, 0);
+
+        if (coverAction) {
+          coverAction.style.opacity = btnOpacity;
+          coverAction.style.pointerEvents = btnOpacity < 0.05 ? 'none' : 'auto';
+          if (!prefersReduced) {
+            coverAction.style.transform = 'translate3d(0, ' + (scrolled * 0.2) + 'px, 0)';
+          }
+          if (btnOpacity <= 0) {
+            coverAction.style.visibility = 'hidden';
+          } else {
+            coverAction.style.visibility = 'visible';
+          }
         }
 
-        // Theme toggle button fades in as the cover opens and reveals the prologue
-        if (themeBtn) {
-          var toggleOpacity = Math.min(Math.max((progress - 0.05) * 3.5, 0), 1);
-          themeBtn.style.opacity = toggleOpacity;
-          themeBtn.style.pointerEvents = toggleOpacity > 0.3 ? 'auto' : 'none';
-          themeBtn.style.transform = 'scale(' + (0.85 + toggleOpacity * 0.15) + ')';
-        }
-
-        var header = document.querySelector('.cover-header');
+        // D. Header frosted background
         if (header) {
-          if (progress > 0.05) {
+          if (scrolled > 60) {
             header.classList.add('is-scrolled');
           } else {
             header.classList.remove('is-scrolled');
           }
-        }
-
-        // When cover is mostly open, disable pointer events on the leaf
-        if (progress >= 0.85) {
-          leaf.style.pointerEvents = 'none';
-        } else {
-          leaf.style.pointerEvents = 'auto';
         }
 
         ticking = false;
@@ -278,27 +284,26 @@
 
       function onScroll() {
         if (!ticking) {
-          requestAnimationFrame(updatePageTurn);
+          requestAnimationFrame(updateScrollEffects);
           ticking = true;
         }
       }
 
       window.addEventListener('scroll', onScroll, { passive: true });
       window.addEventListener('resize', onScroll, { passive: true });
-      updatePageTurn();
+      updateScrollEffects();
 
+      // Smooth scroll button handler
       if (btn) {
         btn.addEventListener('click', function(e) {
           e.preventDefault();
-          var targetY = track.offsetTop + (track.offsetHeight - window.innerHeight);
-          window.scrollTo({
-            top: targetY,
-            behavior: 'smooth'
-          });
+          var target = document.getElementById('prologue');
+          if (target) {
+            target.scrollIntoView({ behavior: 'smooth' });
+          }
         });
       }
     })();
   </script>
 </body>
 </html>
-

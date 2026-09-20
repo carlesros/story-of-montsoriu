@@ -1,10 +1,10 @@
 ---
 layout: chapter.njk
-title: "Chapter 1: Determined to Live"
+title: "Determined to Live"
+number: 1
 date: 2018-09-14
 location: Near the castle Montsoriu
 cover: /images/capitol01/castell-sense-torra.jpg
-next: /chapter-2-nightmares/
 ---
 I’m so tired. And hungry. Or I remember being hungry. Weird, I haven’t eaten anything for days, I was starving to the point of falling, but I don’t feel the sting of hunger anymore. How long has it been? I can’t remember. But I’m so tired. Maybe I should just lay here, just for a bit. I can open the left eye almost entirely now, but it has been like this for a while, I feel I won’t be able to fully open it ever again. At least I don’t have to clean the blood flowing from the bite at the nose anymore. And the injury on the right side of my forehead has stopped hurting.
 
