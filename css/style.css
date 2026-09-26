@@ -1528,9 +1528,11 @@ a.btn-journey:hover {
   filter: grayscale(0%);
 }
 
-.footer-text {
-  max-width: 480px;
+.footer-text,
+.footer-castle-note {
+  max-width: 620px;
   line-height: 1.5;
+  text-wrap: balance;
 }
 
 .footer-castle-note {
