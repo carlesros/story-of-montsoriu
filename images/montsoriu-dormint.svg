@@ -1,0 +1,306 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" id="montsoriuDormintSvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 250" class="w-full h-auto drop-shadow-[0_12px_15px_rgba(0,0,0,0.45)]" aria-label="Cartoon sleeping Montsoriu">
+              <defs>
+                <style>
+                  /* Cat Sleeping Animations */
+                  @keyframes catBreathe {
+                    0%, 100% {
+                      transform: scale(1, 1) translateY(0);
+                    }
+                    50% {
+                      transform: scale(1.02, 1.035) translateY(-2.5px);
+                    }
+                  }
+
+                  @keyframes tailSway {
+                    0%, 100% {
+                      transform: rotate(0deg);
+                    }
+                    30% {
+                      transform: rotate(3.5deg);
+                    }
+                    70% {
+                      transform: rotate(-3deg);
+                    }
+                  }
+
+                  @keyframes earTwitch {
+                    0%, 86%, 100% {
+                      transform: rotate(0deg);
+                    }
+                    88% {
+                      transform: rotate(-6deg);
+                    }
+                    92% {
+                      transform: rotate(4deg);
+                    }
+                    95% {
+                      transform: rotate(-2deg);
+                    }
+                  }
+
+                  @keyframes zzzFloat1 {
+                    0% {
+                      opacity: 0;
+                      transform: translate(0, 6px) scale(0.6);
+                    }
+                    25% {
+                      opacity: 0.9;
+                    }
+                    75% {
+                      opacity: 0.7;
+                    }
+                    100% {
+                      opacity: 0;
+                      transform: translate(6px, -18px) scale(1.1);
+                    }
+                  }
+
+                  @keyframes zzzFloat2 {
+                    0% {
+                      opacity: 0;
+                      transform: translate(0, 6px) scale(0.6);
+                    }
+                    25% {
+                      opacity: 0.95;
+                    }
+                    75% {
+                      opacity: 0.75;
+                    }
+                    100% {
+                      opacity: 0;
+                      transform: translate(8px, -22px) scale(1.15);
+                    }
+                  }
+
+                  @keyframes zzzFloat3 {
+                    0% {
+                      opacity: 0;
+                      transform: translate(0, 6px) scale(0.6);
+                    }
+                    25% {
+                      opacity: 1;
+                    }
+                    75% {
+                      opacity: 0.8;
+                    }
+                    100% {
+                      opacity: 0;
+                      transform: translate(10px, -26px) scale(1.2);
+                    }
+                  }
+
+                  .animate-breathe {
+                    transform-origin: 260px 200px;
+                    animation: catBreathe 4.2s ease-in-out infinite;
+                  }
+
+                  .animate-tail {
+                    transform-origin: 118px 192px;
+                    animation: tailSway 6s ease-in-out infinite;
+                  }
+
+                  .animate-ear {
+                    transform-origin: 405px 95px;
+                    animation: earTwitch 7.5s ease-in-out infinite;
+                  }
+
+                  .zzz-1 {
+                    animation: zzzFloat1 3.4s ease-in-out infinite;
+                    animation-delay: 0s;
+                  }
+
+                  .zzz-2 {
+                    animation: zzzFloat2 3.4s ease-in-out infinite;
+                    animation-delay: 1.15s;
+                  }
+
+                  .zzz-3 {
+                    animation: zzzFloat3 3.4s ease-in-out infinite;
+                    animation-delay: 2.3s;
+                  }
+
+                  @media (prefers-reduced-motion: reduce) {
+                    .animate-breathe,
+                    .animate-tail,
+                    .animate-ear,
+                    .zzz-1,
+                    .zzz-2,
+                    .zzz-3 {
+                      animation: none !important;
+                    }
+                  }
+                </style>
+                <!-- Fur Soft Gradients -->
+                <linearGradient id="bodyWhiteGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+                  <stop offset="0%" stop-color="#FFFFFF"/>
+                  <stop offset="65%" stop-color="#F6F7FA"/>
+                  <stop offset="100%" stop-color="#E2E6EE"/>
+                </linearGradient>
+
+                <linearGradient id="pawGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+                  <stop offset="0%" stop-color="#FFFFFF"/>
+                  <stop offset="70%" stop-color="#ECEFF5"/>
+                  <stop offset="100%" stop-color="#D7DDE8"/>
+                </linearGradient>
+
+                <linearGradient id="calicoOrangeGrad" x1="20%" y1="0%" x2="80%" y2="100%">
+                  <stop offset="0%" stop-color="#FFA24C"/>
+                  <stop offset="45%" stop-color="#ED7E26"/>
+                  <stop offset="100%" stop-color="#C85912"/>
+                </linearGradient>
+
+                <linearGradient id="calicoDarkGrad" x1="0%" y1="0%" x2="50%" y2="100%">
+                  <stop offset="0%" stop-color="#3C3B43"/>
+                  <stop offset="50%" stop-color="#26242B"/>
+                  <stop offset="100%" stop-color="#141317"/>
+                </linearGradient>
+
+                <linearGradient id="innerEarGrad" x1="0%" y1="100%" x2="50%" y2="0%">
+                  <stop offset="0%" stop-color="#EAA6B6"/>
+                  <stop offset="100%" stop-color="#FCDCE3"/>
+                </linearGradient>
+
+                <radialGradient id="edgeContactShadow" cx="50%" cy="50%" r="50%">
+                  <stop offset="0%" stop-color="#000000" stop-opacity="0.35"/>
+                  <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+                </radialGradient>
+              </defs>
+
+              <!-- Contact drop-shadow along the platform line (y=200) -->
+              <ellipse cx="230" cy="200" rx="160" ry="6" fill="url(#edgeContactShadow)"/>
+              <ellipse cx="370" cy="200" rx="50" ry="4" fill="url(#edgeContactShadow)"/>
+              <!-- Shadow under hanging tail -->
+              <ellipse cx="85" cy="200" rx="18" ry="3.5" fill="url(#edgeContactShadow)"/>
+
+              <!-- Floating Sleep Zzz's -->
+              <g id="sleepZzzGroup">
+                <text x="445" y="100" fill="#FBBF24" font-family="'Comic Sans MS', 'Fredoka', 'Quicksand', sans-serif" font-weight="900" font-size="20" class="zzz-1 select-none">Z</text>
+                <text x="460" y="80" fill="#F59E0B" font-family="'Comic Sans MS', 'Fredoka', 'Quicksand', sans-serif" font-weight="900" font-size="25" class="zzz-2 select-none">Z</text>
+                <text x="475" y="55" fill="#D97706" font-family="'Comic Sans MS', 'Fredoka', 'Quicksand', sans-serif" font-weight="900" font-size="32" class="zzz-3 select-none">z</text>
+              </g>
+
+              <!-- Main Cat Animated Breathing Wrapper -->
+              <g id="catBreathingBody" class="animate-breathe">
+
+                <!-- 1. DANGLING CALICO TAIL (Drapes naturally over the horizontal edge) -->
+                <g class="animate-tail">
+                  <!-- Tail base & downward hanging drape past edge y=200 -->
+                  <path d="M 125 186 &#10;                           C 115 182, 100 185, 92 195 &#10;                           C 84 204, 76 215, 78 226 &#10;                           C 80 234, 88 238, 96 235 &#10;                           C 104 231, 105 220, 102 210 &#10;                           C 100 203, 106 198, 118 196 Z" fill="url(#calicoDarkGrad)" stroke="#222026" stroke-width="3" stroke-linejoin="round"/>
+
+                  <!-- Calico ginger ring bands on tail (as seen in outdoor photo) -->
+                  <path d="M 88 200 C 82 208, 80 216, 82 222 C 89 220, 96 216, 99 208 Z" fill="url(#calicoOrangeGrad)"/>
+                  <path d="M 84 222 C 86 228, 90 234, 94 233 C 97 232, 99 226, 98 222 Z" fill="url(#calicoOrangeGrad)"/>
+
+                  <!-- Creamy white tail tip -->
+                  <path d="M 87 231 C 89 235, 93 236, 95 233 C 93 230, 89 228, 87 231 Z" fill="#FFFFFF"/>
+
+                  <!-- Overhang crease line at edge y=200 -->
+                  <path d="M 88 200 C 93 202, 98 201, 103 199" fill="none" stroke="#222026" stroke-width="1.8" stroke-linecap="round" opacity="0.6"/>
+                </g>
+
+                <!-- 2. MAIN BODY (Sleeping oval curled hump) -->
+                <!-- The flat bottom aligns with y=200, the top edge of the navbar -->
+                <path id="catMainBody" d="M 95 198 &#10;                         C 75 185, 80 135, 120 102 &#10;                         C 165 65, 255 58, 335 78 &#10;                         C 375 88, 405 110, 415 130 &#10;                         C 418 145, 412 175, 400 198 &#10;                         C 370 200, 140 200, 95 198 Z" fill="url(#bodyWhiteGrad)" stroke="#222026" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+                <!-- CALICO MARKINGS ON BACK & FLANK (Faithful to photo: large dark patch with bright orange flank) -->
+                <!-- Deep Charcoal/Black Spine & Rump Patch -->
+                <path d="M 105 170 &#10;                         C 92 145, 102 112, 130 96 &#10;                         C 158 80, 205 80, 235 92 &#10;                         C 215 110, 185 125, 170 148 &#10;                         C 155 170, 135 185, 105 170 Z" fill="url(#calicoDarkGrad)"/>
+                
+                <!-- Tiny organic fur tufts on dark patch edge -->
+                <path d="M 235 92 C 228 98, 222 105, 226 112 C 218 110, 212 118, 208 125" fill="none" stroke="#222026" stroke-width="2" stroke-linecap="round"/>
+
+                <!-- Rich Calico Orange Patch on Back & Mid-Torso -->
+                <path d="M 235 92 &#10;                         C 255 100, 275 115, 270 135 &#10;                         C 265 152, 245 165, 225 175 &#10;                         C 215 180, 200 178, 195 168 &#10;                         C 188 152, 202 138, 212 125 &#10;                         C 222 112, 228 100, 235 92 Z" fill="url(#calicoOrangeGrad)"/>
+
+                <!-- Small auxiliary golden flank spot (as seen in photo) -->
+                <path d="M 148 88 C 160 84, 172 88, 168 95 C 162 100, 150 96, 148 88 Z" fill="url(#calicoOrangeGrad)"/>
+
+                <!-- 3. THE DANGLING FRONT PAW (Drapes naturally over the horizontal edge) -->
+                <!-- Edge of navbar sits precisely at Y = 200 -->
+                <g id="frontPawGroup">
+                  <!-- Leg coming down from chest -->
+                  <path d="M 270 162 &#10;                           C 272 178, 260 195, 248 200 &#10;                           C 240 200, 236 210, 238 217 &#10;                           C 241 223, 252 225, 260 224 &#10;                           C 269 223, 276 218, 280 212 &#10;                           C 285 205, 287 195, 292 188 &#10;                           C 298 178, 305 170, 310 165 Z" fill="url(#pawGrad)" stroke="#222026" stroke-width="3" stroke-linejoin="round"/>
+
+                  <!-- Paw toes & claws creases hanging perpendicularly down -->
+                  <path d="M 248 214 C 250 223, 255 224, 256 224" fill="none" stroke="#222026" stroke-width="2.2" stroke-linecap="round"/>
+                  <path d="M 261 213 C 264 222, 268 223, 270 222" fill="none" stroke="#222026" stroke-width="2.2" stroke-linecap="round"/>
+                  <path d="M 272 208 C 276 215, 278 216, 280 213" fill="none" stroke="#222026" stroke-width="2.2" stroke-linecap="round"/>
+
+                  <!-- Soft paw fur tuft highlights -->
+                  <path d="M 245 198 C 248 194, 256 195, 258 198" fill="none" stroke="#D3D9E4" stroke-width="2" stroke-linecap="round"/>
+                </g>
+
+                <!-- 4. CAT HEAD (Tilted down in serene deep sleep) -->
+                <g id="headGroup">
+                  
+                  <!-- Left Ear (in background, darker) -->
+                  <path d="M 335 95 L 348 58 C 352 54, 358 56, 362 62 L 375 88 Z" fill="url(#calicoDarkGrad)" stroke="#222026" stroke-width="3" stroke-linejoin="round"/>
+                  <path d="M 346 86 L 354 66 L 366 84 Z" fill="url(#innerEarGrad)" opacity="0.8"/>
+
+                  <!-- Main Head Base (Cute curved cheek resting directly down) -->
+                  <path d="M 330 115 &#10;                           C 335 95, 365 85, 395 88 &#10;                           C 425 92, 448 108, 452 135 &#10;                           C 455 158, 435 188, 400 198 &#10;                           C 370 202, 335 192, 325 170 &#10;                           C 318 152, 325 125, 330 115 Z" fill="url(#bodyWhiteGrad)" stroke="#222026" stroke-width="3" stroke-linejoin="round"/>
+
+                  <!-- CALICO MARKINGS ON FACE (Accurately modeled from front & side photos) -->
+                  <!-- Extended Black Patch covering the cat's right ear/temple and flowing down cheek, symmetrical to orange patch -->
+                  <path d="M 334 105 &#10;                           C 342 88, 362 84, 376 86 &#10;                           C 374 98, 366 112, 355 120 &#10;                           C 348 126, 340 135, 336 148 &#10;                           C 332 160, 336 172, 342 178 &#10;                           C 330 172, 322 152, 326 132 &#10;                           C 328 120, 331 112, 334 105 Z" fill="url(#calicoDarkGrad)"/>
+                  
+                  <!-- Soft black cheek transition accent -->
+                  <path d="M 342 125 C 347 132, 348 142, 344 150 C 339 146, 339 135, 342 125 Z" fill="url(#calicoDarkGrad)"/>
+
+                  <!-- Right Ear (Foreground - orange base with calico black tip as in photo) -->
+                  <g class="animate-ear">
+                    <path d="M 390 92 &#10;                             L 435 60 &#10;                             C 440 56, 447 62, 445 70 &#10;                             L 430 110 &#10;                             Z" fill="url(#calicoOrangeGrad)" stroke="#222026" stroke-width="3" stroke-linejoin="round"/>
+
+                    <!-- Black tip on the ear -->
+                    <path d="M 425 68 L 435 60 C 440 56, 447 62, 445 70 L 438 78 Z" fill="url(#calicoDarkGrad)"/>
+
+                    <!-- Inner ear pink cavity -->
+                    <path d="M 402 92 L 430 72 L 424 102 Z" fill="url(#innerEarGrad)"/>
+                    
+                    <!-- White fluffy inner ear hairs -->
+                    <path d="M 400 95 C 410 90, 415 92, 420 86" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+                    <path d="M 405 102 C 414 98, 418 100, 422 94" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round"/>
+                  </g>
+
+                  <!-- Orange Calico Patch over Right Cheek and Temple -->
+                  <path d="M 405 100 &#10;                           C 428 108, 448 122, 448 140 &#10;                           C 448 158, 436 178, 418 186 &#10;                           C 416 172, 425 152, 420 138 &#10;                           C 415 125, 408 112, 405 100 Z" fill="url(#calicoOrangeGrad)"/>
+
+                  <!-- Sleeping Eyes (Peaceful curved lines) -->
+                  <!-- Left sleeping eye (clearly framed with crisp outer stroke for high contrast) -->
+                  <path d="M 348 144 C 353 150, 362 150, 366 145" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" opacity="0.9"/>
+                  <path d="M 348 144 C 353 150, 362 150, 366 145" fill="none" stroke="#222026" stroke-width="2.6" stroke-linecap="round"/>
+                  <!-- Right sleeping eye (peacefully tilted) -->
+                  <path d="M 388 150 C 394 156, 404 155, 408 149" fill="none" stroke="#FFFFFF" stroke-width="4.5" stroke-linecap="round" opacity="0.9"/>
+                  <path d="M 388 150 C 394 156, 404 155, 408 149" fill="none" stroke="#222026" stroke-width="2.6" stroke-linecap="round"/>
+
+                  <!-- Cute Sleepy Eyelash Accents -->
+                  <path d="M 364 148 L 369 152" fill="none" stroke="#222026" stroke-width="2" stroke-linecap="round"/>
+                  <path d="M 406 153 L 411 156" fill="none" stroke="#222026" stroke-width="2" stroke-linecap="round"/>
+
+                  <!-- Cute Soft Pink Nose -->
+                  <path d="M 374 156 C 372 156, 369 160, 372 163 C 374 165, 378 165, 380 163 C 383 160, 378 156, 374 156 Z" fill="#F294A8" stroke="#D46A82" stroke-width="1"/>
+
+                  <!-- Sleepy mouth line curving toward resting chin -->
+                  <path d="M 376 164 L 376 168 C 373 170, 368 171, 365 170" fill="none" stroke="#222026" stroke-width="2" stroke-linecap="round"/>
+                  <path d="M 376 168 C 380 171, 385 170, 388 168" fill="none" stroke="#222026" stroke-width="2" stroke-linecap="round"/>
+
+                  <!-- Whisker Dots -->
+                  <circle cx="363" cy="164" r="1.2" fill="#888C95"/>
+                  <circle cx="360" cy="167" r="1.2" fill="#888C95"/>
+                  <circle cx="390" cy="165" r="1.2" fill="#888C95"/>
+                  <circle cx="393" cy="168" r="1.2" fill="#888C95"/>
+
+                  <!-- Sleek Whiskers -->
+                  <!-- Left side whiskers -->
+                  <path d="M 358 165 C 338 166, 322 164, 308 160" fill="none" stroke="#B4BAC6" stroke-width="1.6" stroke-linecap="round" opacity="0.85"/>
+                  <path d="M 356 169 C 336 172, 324 174, 312 173" fill="none" stroke="#B4BAC6" stroke-width="1.6" stroke-linecap="round" opacity="0.85"/>
+                  <!-- Right side whiskers -->
+                  <path d="M 395 167 C 418 168, 436 167, 452 162" fill="none" stroke="#B4BAC6" stroke-width="1.6" stroke-linecap="round" opacity="0.85"/>
+                  <path d="M 394 171 C 415 174, 430 178, 446 175" fill="none" stroke="#B4BAC6" stroke-width="1.6" stroke-linecap="round" opacity="0.85"/>
+
+                  <!-- Subtle Chin resting highlight -->
+                  <ellipse cx="375" cy="177" rx="14" ry="4" fill="#FFFFFF" opacity="0.6"/>
+                </g>
+
+              </g>
+            </svg>

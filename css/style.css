@@ -298,6 +298,54 @@ a:not(.btn):hover {
   gap: 0.75rem;
 }
 
+/* --------------------------------------------------------------------------
+   Sleeping Montsoriu Cat on Chapter Navigation Bar
+   -------------------------------------------------------------------------- */
+.header-sleeping-cat {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  /* Montsoriu's flat resting baseline in the SVG is at y=200/250 (80% down). */
+  /* For height=65px, the flat line is 13px above the bottom of the SVG. */
+  /* Setting bottom: -13px relative to .chapter-cover-header aligns the flat resting line */
+  /* precisely with the bottom border (0px) of the navigation bar, while the dangling paw */
+  /* and tail hang 13px below the navbar edge into the page content. */
+  bottom: -13px;
+  z-index: 105;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.sleeping-cat-img {
+  width: 135px;
+  height: 65px;
+  display: block;
+  object-fit: contain;
+  pointer-events: none;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Hide sleeping cat on devices without enough horizontal room in the header */
+@media (max-width: 720px) {
+  .header-sleeping-cat {
+    display: none !important;
+  }
+}
+
+/* On medium screens (721px - 940px), position cat nicely between brand and actions */
+@media (min-width: 721px) and (max-width: 940px) {
+  .header-sleeping-cat {
+    left: auto;
+    right: 115px;
+    transform: none;
+  }
+}
+
 /* Theme Toggle Button */
 .theme-toggle-btn {
   display: inline-flex;
