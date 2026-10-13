@@ -6,32 +6,7 @@
   <title>{{ title }} - Digital Book</title>
   <meta name="description" content="One homeless cat. One legendary castle. A shared destiny. Read the real-life adventures and story of Montsoriu.">
 
-  <!-- Theme Initializer (Defaults to system preference, prevents FOUC) -->
-  <script>
-    (function() {
-      try {
-        var savedTheme = localStorage.getItem('montsoriu-theme');
-        if (savedTheme === 'dark' || savedTheme === 'light') {
-          document.documentElement.setAttribute('data-theme', savedTheme);
-        } else {
-          var systemDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-          document.documentElement.setAttribute('data-theme', systemDark ? 'dark' : 'light');
-        }
-      } catch (e) {}
-    })();
-  </script>
-
-  <!-- Favicon -->
-  <link rel="icon" type="image/png" href="/images/favicon.png">
-  <link rel="apple-touch-icon" href="/images/favicon.png">
-
-  <!-- Google Fonts Preconnect & Stylesheets -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800;900&family=Great+Vibes&family=Lora:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-
-  <!-- Main Stylesheet -->
-  <link rel="stylesheet" href="/css/style.css">
+  {% include "partials/head-common.njk" %}
 </head>
 <body class="page-cover">
   <!-- Minimalist Overlay Header with Dark/Light Toggle -->
@@ -72,101 +47,7 @@
           </div>
         </a>
 
-        <div class="header-actions">
-          <button type="button" class="theme-toggle-btn" id="theme-toggle" aria-label="Toggle dark and light theme" title="Toggle dark / light theme">
-            <svg class="theme-icon sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-              <circle cx="12" cy="12" r="5"></circle>
-              <line x1="12" y1="1" x2="12" y2="3"></line>
-              <line x1="12" y1="21" x2="12" y2="23"></line>
-              <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-              <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-              <line x1="1" y1="12" x2="3" y2="12"></line>
-              <line x1="21" y1="12" x2="23" y2="12"></line>
-              <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-              <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-            </svg>
-            <svg class="theme-icon moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-              <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-            </svg>
-          </button>
-
-          <!-- External Links Dropdown Menu -->
-          <div class="menu-dropdown-wrap">
-            <button type="button" class="menu-toggle-btn" id="menu-toggle" aria-expanded="false" aria-controls="site-nav-menu" aria-label="Open links menu" title="Links Menu">
-              <svg class="menu-icon hamburger-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <line x1="4" y1="7" x2="20" y2="7"></line>
-                <line x1="4" y1="12" x2="20" y2="12"></line>
-                <line x1="4" y1="17" x2="20" y2="17"></line>
-              </svg>
-              <svg class="menu-icon close-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                <line x1="18" y1="6" x2="6" y2="18"></line>
-                <line x1="6" y1="6" x2="18" y2="18"></line>
-              </svg>
-            </button>
-            <div class="menu-dropdown" id="site-nav-menu" role="region" aria-label="External links menu">
-              <ul class="menu-list" role="list">
-                <li>
-                  <a href="https://www.youtube.com/@montsoriuthecat2716" target="_blank" rel="noopener noreferrer" class="menu-item-link">
-                    <span class="menu-item-icon youtube-icon" aria-hidden="true">
-                      <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
-                        <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
-                      </svg>
-                    </span>
-                    <span class="menu-item-text">
-                      <span class="menu-item-title">YouTube</span>
-                      <span class="menu-item-sub">@montsoriuthecat2716</span>
-                    </span>
-                    <svg class="menu-item-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                      <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
-                      <polyline points="15 3 21 3 21 9"></polyline>
-                      <line x1="10" y1="14" x2="21" y2="3"></line>
-                    </svg>
-                  </a>
-                </li>
-                <li>
-                  <a href="https://www.instagram.com/montsoriu.voyage/" target="_blank" rel="noopener noreferrer" class="menu-item-link">
-                    <span class="menu-item-icon instagram-icon" aria-hidden="true">
-                      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                        <rect x="2" y="2" width="20" height="20" rx="5" ry="5"></rect>
-                        <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
-                        <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"></line>
-                      </svg>
-                    </span>
-                    <span class="menu-item-text">
-                      <span class="menu-item-title">Instagram</span>
-                      <span class="menu-item-sub">@montsoriu.voyage</span>
-                    </span>
-                    <svg class="menu-item-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                      <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
-                      <polyline points="15 3 21 3 21 9"></polyline>
-                      <line x1="10" y1="14" x2="21" y2="3"></line>
-                    </svg>
-                  </a>
-                </li>
-                <li>
-                  <a href="https://www.montsoriu.cat/" target="_blank" rel="noopener noreferrer" class="menu-item-link">
-                    <span class="menu-item-icon castle-icon" aria-hidden="true">
-                      <svg viewBox="0 0 32 32" width="18" height="18" fill="currentColor">
-                        <path d="M17 1v4.5h4.5L17 1z"/>
-                        <path fill-rule="evenodd" clip-rule="evenodd" d="M4 8.5h2v2h2v-2h2v5.5h2V4.5h2v2h2v-2h2v2h2v-2h2v9.5h2v-5.5h2v2h2v-2h2v17.5H4V8.5z M6.2 14h1.6v4H6.2v-4z M24.2 14h1.6v4h-1.6v-4z M16 8.5h2v3.5h-2V8.5z M14.5 26v-5a2.5 2.5 0 0 1 5 0v5h-5z"/>
-                        <rect x="2" y="26" width="28" height="2" rx="1"/>
-                      </svg>
-                    </span>
-                    <span class="menu-item-text">
-                      <span class="menu-item-title">Castle</span>
-                      <span class="menu-item-sub">www.montsoriu.cat</span>
-                    </span>
-                    <svg class="menu-item-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-                      <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
-                      <polyline points="15 3 21 3 21 9"></polyline>
-                      <line x1="10" y1="14" x2="21" y2="3"></line>
-                    </svg>
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
+        {% include "partials/header-actions.njk" %}
       </div>
     </div>
   </header>
@@ -267,104 +148,28 @@
   </main>
 
   <!-- Footer -->
-  <footer class="site-footer">
-    <div class="footer-inner">
-      <img src="/images/logo.png" alt="Montsoriu Logo" class="footer-logo" width="32" height="32">
-      <p class="footer-text">
-        <strong>The Story of Montsoriu</strong> — A digital book narrating the real-life adventures and journey of Montsoriu.
-      </p>
-      <p class="footer-castle-note">
-        Named in honor of the historic Castle of Montsoriu (Castell de Montsoriu), Catalonia, where our paths crossed on my walk down from the fortress.
-      </p>
-      <p class="footer-copy">
-        &copy; The Story of Montsoriu. All rights reserved.
-      </p>
-    </div>
-  </footer>
+  {% include "partials/footer.njk" %}
 
-  <!-- Scroll Parallax, Fade & Theme Script -->
+  <!-- Common Interactive Scripts (Theme & Navigation Dropdown) -->
+  {% include "partials/scripts-common.njk" %}
+
+  <!-- Cover-Specific Parallax, Faster Scroll-up & Fading on Scroll -->
   <script>
     (function() {
-      // 1. Theme Toggle Logic
-      var themeBtn = document.getElementById('theme-toggle');
-      if (themeBtn) {
-        themeBtn.addEventListener('click', function() {
-          var currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
-          var nextTheme = currentTheme === 'dark' ? 'light' : 'dark';
-          document.documentElement.setAttribute('data-theme', nextTheme);
-          try {
-            localStorage.setItem('montsoriu-theme', nextTheme);
-          } catch (e) {}
-        });
-      }
-
-      // 2. Menu Dropdown Logic
-      var menuBtn = document.getElementById('menu-toggle');
-      var menuDropdown = document.getElementById('site-nav-menu');
-
-      if (menuBtn && menuDropdown) {
-        menuBtn.addEventListener('click', function(e) {
-          e.stopPropagation();
-          var isOpen = menuDropdown.classList.contains('is-open');
-          if (isOpen) {
-            menuDropdown.classList.remove('is-open');
-            menuBtn.setAttribute('aria-expanded', 'false');
-          } else {
-            menuDropdown.classList.add('is-open');
-            menuBtn.setAttribute('aria-expanded', 'true');
-          }
-        });
-
-        document.addEventListener('click', function(e) {
-          if (!menuDropdown.contains(e.target) && !menuBtn.contains(e.target)) {
-            menuDropdown.classList.remove('is-open');
-            menuBtn.setAttribute('aria-expanded', 'false');
-          }
-        });
-
-        document.addEventListener('keydown', function(e) {
-          if (e.key === 'Escape' && menuDropdown.classList.contains('is-open')) {
-            menuDropdown.classList.remove('is-open');
-            menuBtn.setAttribute('aria-expanded', 'false');
-            menuBtn.focus();
-          }
-        });
-
-        var menuLinks = menuDropdown.querySelectorAll('.menu-item-link');
-        for (var i = 0; i < menuLinks.length; i++) {
-          menuLinks[i].addEventListener('click', function() {
-            menuDropdown.classList.remove('is-open');
-            menuBtn.setAttribute('aria-expanded', 'false');
-          });
-        }
-      }
-
-      // Listen for system theme changes if user hasn't explicitly set preference
-      if (window.matchMedia) {
-        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
-          try {
-            if (!localStorage.getItem('montsoriu-theme')) {
-              document.documentElement.setAttribute('data-theme', e.matches ? 'dark' : 'light');
-            }
-          } catch (err) {}
-        });
-      }
-
-      // 2. Parallax, Faster Scroll-up & Fading on Scroll
       var coverBg = document.getElementById('cover-bg');
       var coverContent = document.getElementById('cover-content');
       var coverAction = document.getElementById('cover-action');
       var castleShortcut = document.getElementById('castle-shortcut');
       var header = document.querySelector('.cover-header');
       var btn = document.getElementById('btn-begin-voyage');
+      var menuBtn = document.getElementById('menu-toggle');
+      var menuDropdown = document.getElementById('site-nav-menu');
 
       var ticking = false;
 
       function updateScrollEffects() {
         var scrolled = window.pageYOffset || document.documentElement.scrollTop || 0;
         var winH = window.innerHeight || 800;
-
-        // Check for reduced motion preference
         var prefersReduced = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
         // A. Fixed Cover Background Image Fade-Out
@@ -374,15 +179,10 @@
 
         if (coverBg) {
           coverBg.style.opacity = bgOpacity;
-          if (bgOpacity <= 0) {
-            coverBg.style.visibility = 'hidden';
-          } else {
-            coverBg.style.visibility = 'visible';
-          }
+          coverBg.style.visibility = bgOpacity <= 0 ? 'hidden' : 'visible';
         }
 
         // B. Logo / Title / Tagline: Scrolls up FASTER than text while fading out
-        // Extra translation of -0.6 * scrolled makes it move at ~1.6x scroll speed, sliding smoothly under top nav
         var contentFadeDist = winH * 0.85;
         var contentProgress = Math.min(Math.max(scrolled / contentFadeDist, 0), 1);
         var contentOpacity = Math.max(1 - contentProgress, 0);
@@ -390,14 +190,9 @@
         if (coverContent) {
           coverContent.style.opacity = contentOpacity;
           if (!prefersReduced) {
-            var extraTranslateY = -scrolled * 0.6;
-            coverContent.style.transform = 'translate3d(0, ' + extraTranslateY + 'px, 0)';
+            coverContent.style.transform = 'translate3d(0, ' + (-scrolled * 0.6) + 'px, 0)';
           }
-          if (contentOpacity <= 0) {
-            coverContent.style.visibility = 'hidden';
-          } else {
-            coverContent.style.visibility = 'visible';
-          }
+          coverContent.style.visibility = contentOpacity <= 0 ? 'hidden' : 'visible';
         }
 
         // C. Button ("Begin her voyage"): Fades out quickly on initial scroll
@@ -411,11 +206,7 @@
           if (!prefersReduced) {
             coverAction.style.transform = 'translate3d(0, ' + (scrolled * 0.2) + 'px, 0)';
           }
-          if (btnOpacity <= 0) {
-            coverAction.style.visibility = 'hidden';
-          } else {
-            coverAction.style.visibility = 'visible';
-          }
+          coverAction.style.visibility = btnOpacity <= 0 ? 'hidden' : 'visible';
         }
 
         // D. Castle Shortcut: Fades out as user scrolls down and navbar appears
@@ -429,11 +220,7 @@
           if (!prefersReduced) {
             castleShortcut.style.transform = 'translate3d(0, ' + (-scrolled * 0.2) + 'px, 0)';
           }
-          if (castleOpacity <= 0) {
-            castleShortcut.style.visibility = 'hidden';
-          } else {
-            castleShortcut.style.visibility = 'visible';
-          }
+          castleShortcut.style.visibility = castleOpacity <= 0 ? 'hidden' : 'visible';
         }
 
         // E. Header frosted background

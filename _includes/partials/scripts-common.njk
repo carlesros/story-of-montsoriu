@@ -1,0 +1,68 @@
+<script>
+  (function() {
+    // 1. Theme Toggle Logic
+    var themeBtn = document.getElementById('theme-toggle');
+    if (themeBtn) {
+      themeBtn.addEventListener('click', function() {
+        var currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
+        var nextTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', nextTheme);
+        try {
+          localStorage.setItem('montsoriu-theme', nextTheme);
+        } catch (e) {}
+      });
+    }
+
+    // 2. Menu Dropdown Logic
+    var menuBtn = document.getElementById('menu-toggle');
+    var menuDropdown = document.getElementById('site-nav-menu');
+
+    if (menuBtn && menuDropdown) {
+      menuBtn.addEventListener('click', function(e) {
+        e.stopPropagation();
+        var isOpen = menuDropdown.classList.contains('is-open');
+        if (isOpen) {
+          menuDropdown.classList.remove('is-open');
+          menuBtn.setAttribute('aria-expanded', 'false');
+        } else {
+          menuDropdown.classList.add('is-open');
+          menuBtn.setAttribute('aria-expanded', 'true');
+        }
+      });
+
+      document.addEventListener('click', function(e) {
+        if (!menuDropdown.contains(e.target) && !menuBtn.contains(e.target)) {
+          menuDropdown.classList.remove('is-open');
+          menuBtn.setAttribute('aria-expanded', 'false');
+        }
+      });
+
+      document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && menuDropdown.classList.contains('is-open')) {
+          menuDropdown.classList.remove('is-open');
+          menuBtn.setAttribute('aria-expanded', 'false');
+          menuBtn.focus();
+        }
+      });
+
+      var menuLinks = menuDropdown.querySelectorAll('.menu-item-link');
+      for (var i = 0; i < menuLinks.length; i++) {
+        menuLinks[i].addEventListener('click', function() {
+          menuDropdown.classList.remove('is-open');
+          menuBtn.setAttribute('aria-expanded', 'false');
+        });
+      }
+    }
+
+    // 3. System Theme Changes Listener
+    if (window.matchMedia) {
+      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+        try {
+          if (!localStorage.getItem('montsoriu-theme')) {
+            document.documentElement.setAttribute('data-theme', e.matches ? 'dark' : 'light');
+          }
+        } catch (err) {}
+      });
+    }
+  })();
+</script>

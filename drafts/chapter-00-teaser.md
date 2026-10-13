@@ -1,0 +1,5 @@
+Once upon a time, in a land of small mountains and small forests, of small rivers and small distances, of small villages and not so small disputes, there was an inexpugnable castle protecting viscounts, farmers and villagers alike. It endured many battles, until eventually it fell to the mightiest enemy of all, the passage of time.
+
+Centuries passed by, the castle feeling older and older with every century, losing yet another stone with every year. Its old walls, once keepers of the gossip of servants, the loudness of soldiers, the plots of nobles, now only inhabited by silence. Eventually, the steps of the occasional curious would resonate among them. Until one day, on the skirts of the mountain where the castle rested, a baby cat was abandoned to her luck.
+
+This is her story. This is the story of Montsoriu.

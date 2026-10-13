@@ -3,9 +3,6 @@
    ========================================================================== */
 
 /* --------------------------------------------------------------------------
-   Design Tokens & CSS Variables
-   -------------------------------------------------------------------------- */
-/* --------------------------------------------------------------------------
    Design Tokens & CSS Variables (Dark by Default, Light with [data-theme="light"])
    -------------------------------------------------------------------------- */
 :root,
@@ -13,19 +10,15 @@
   /* Color Palette - Dark Obsidian Edition */
   --bg-main: #0c1015;
   --bg-surface: #141c24;
-  --bg-surface-elevated: #1b2632;
-  --bg-card: rgba(22, 32, 42, 0.75);
   --bg-glass: rgba(18, 26, 36, 0.85);
 
   --text-primary: #f2eee6;
-  --text-secondary: #c2cbd6;
   --text-muted: #8594a6;
 
   --accent-gold: #e5a947;
   --accent-gold-light: #f5c86e;
+  --accent-gold-dark: #b37318;
   --accent-gold-glow: rgba(229, 169, 71, 0.25);
-  --accent-amber: #d97736;
-  --accent-emerald: #3b7a57;
 
   --border-subtle: rgba(255, 255, 255, 0.08);
   --border-gold: rgba(229, 169, 71, 0.3);
@@ -42,13 +35,7 @@
   --font-ui: "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 
   /* Shadows */
-  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
   --shadow-md: 0 8px 24px rgba(0, 0, 0, 0.45);
-  --shadow-lg: 0 16px 40px rgba(0, 0, 0, 0.6);
-  --shadow-book:
-    -10px 10px 25px rgba(0, 0, 0, 0.6),
-    0 20px 45px rgba(0, 0, 0, 0.7),
-    0 0 60px rgba(229, 169, 71, 0.12);
 
   /* Layout & Spacing */
   --container-max: 1100px;
@@ -56,7 +43,6 @@
   --radius-sm: 6px;
   --radius-md: 12px;
   --radius-lg: 20px;
-  --radius-book: 8px 16px 16px 8px;
 
   /* Transitions */
   --transition-fast: 0.2s ease;
@@ -67,19 +53,15 @@
   /* Color Palette - Warm Antique Parchment Edition */
   --bg-main: #f9f6ef;
   --bg-surface: #f0eae0;
-  --bg-surface-elevated: #e6ddd0;
-  --bg-card: rgba(240, 234, 224, 0.85);
   --bg-glass: rgba(249, 246, 239, 0.92);
 
   --text-primary: #231b14;
-  --text-secondary: #4a3e33;
   --text-muted: #796b5e;
 
   --accent-gold: #b37318;
   --accent-gold-light: #8e580e;
+  --accent-gold-dark: #8e580e;
   --accent-gold-glow: rgba(179, 115, 24, 0.2);
-  --accent-amber: #b54f12;
-  --accent-emerald: #286043;
 
   --border-subtle: rgba(35, 27, 20, 0.1);
   --border-gold: rgba(179, 115, 24, 0.35);
@@ -89,9 +71,7 @@
   --body-radial-2: rgba(40, 96, 67, 0.04);
   --body-radial-3: rgba(181, 79, 18, 0.04);
 
-  --shadow-sm: 0 2px 8px rgba(35, 27, 20, 0.08);
   --shadow-md: 0 8px 24px rgba(35, 27, 20, 0.12);
-  --shadow-lg: 0 16px 40px rgba(35, 27, 20, 0.18);
 }
 
 /* --------------------------------------------------------------------------
@@ -250,18 +230,21 @@ a:not(.btn):hover {
   text-transform: uppercase;
   background: linear-gradient(135deg, #ffffff 40%, var(--accent-gold-light) 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 [data-theme="light"] .brand-name {
   background: linear-gradient(135deg, #231b14 40%, var(--accent-gold) 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 [data-theme="light"] .cover-header:not(.is-scrolled):not(.chapter-cover-header) .brand-name {
   background: linear-gradient(135deg, #ffffff 40%, var(--accent-gold-light) 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   text-shadow: 0 2px 10px rgba(0, 0, 0, 0.85);
 }
@@ -275,6 +258,7 @@ a:not(.btn):hover {
 [data-theme="light"] .chapter-cover-header .brand-name {
   background: linear-gradient(135deg, #231b14 40%, var(--accent-gold) 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   text-shadow: none;
 }
@@ -365,8 +349,7 @@ a:not(.btn):hover {
 }
 
 .cover-header .brand-link,
-.cover-header .header-actions,
-.cover-header .castle-shortcut {
+.cover-header .header-actions {
   transition: opacity 0.35s cubic-bezier(0.16, 1, 0.3, 1), transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
@@ -413,7 +396,7 @@ a:not(.btn):hover {
 }
 
 .castle-line-en {
-  font-family: var(--font-sans);
+  font-family: var(--font-ui);
   font-size: 0.78rem;
   font-weight: 600;
   letter-spacing: 0.015em;
@@ -424,7 +407,7 @@ a:not(.btn):hover {
 }
 
 .castle-line-ca {
-  font-family: var(--font-body);
+  font-family: var(--font-reading);
   font-size: 0.72rem;
   font-style: italic;
   color: var(--accent-gold-light);
@@ -784,7 +767,7 @@ a:not(.btn):hover {
 }
 
 .menu-item-title {
-  font-family: var(--font-sans);
+  font-family: var(--font-ui);
   font-weight: 600;
   font-size: 0.88rem;
   letter-spacing: 0.01em;
@@ -792,7 +775,7 @@ a:not(.btn):hover {
 }
 
 .menu-item-sub {
-  font-family: var(--font-body);
+  font-family: var(--font-reading);
   font-size: 0.72rem;
   color: var(--text-muted);
 }
@@ -834,12 +817,6 @@ a.btn {
   line-height: 1;
 }
 
-.btn:hover,
-a.btn:hover,
-.btn:focus,
-a.btn:focus {
-  text-decoration: none !important;
-}
 
 .btn-primary,
 a.btn-primary {
@@ -906,10 +883,6 @@ a.btn-secondary:hover {
   font-size: 0.85rem;
 }
 
-.btn-icon {
-  width: 18px;
-  height: 18px;
-}
 
 .btn-disabled,
 .btn:disabled,
@@ -989,8 +962,6 @@ span.btn-disabled {
 .chapter-hero-section {
   min-height: 75vh;
   min-height: 75dvh;
-  height: 75vh;
-  height: 75dvh;
   justify-content: center;
   padding: 5rem 1.5rem 2rem;
 }
@@ -1131,11 +1102,6 @@ a.btn-journey {
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
 }
 
-.btn-journey:hover,
-a.btn-journey:hover {
-  text-decoration: none !important;
-}
-
 [data-theme="light"] .btn-journey {
   color: #ffffff;
   background: rgba(35, 27, 20, 0.85);
@@ -1143,7 +1109,8 @@ a.btn-journey:hover {
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
 }
 
-.btn-journey:hover {
+.btn-journey:hover,
+a.btn-journey:hover {
   background: linear-gradient(135deg, var(--accent-gold) 0%, #c48a30 100%);
   color: #0c0a04;
   border-color: var(--accent-gold-light);
@@ -1188,11 +1155,6 @@ a.btn-journey:hover {
   box-shadow: 0 -20px 45px rgba(35, 27, 20, 0.15);
 }
 
-@media (max-width: 640px) {
-  .book-page-canvas {
-    padding: 5rem 1.25rem 4rem;
-  }
-}
 
 .book-page-inner {
   max-width: var(--container-reading);
@@ -1427,8 +1389,6 @@ a.btn-journey:hover {
   .chapter-hero-section {
     min-height: 70vh;
     min-height: 70dvh;
-    height: 70vh;
-    height: 70dvh;
     padding: 4.5rem 1.25rem 1.5rem;
   }
 
@@ -1509,14 +1469,7 @@ a.btn-journey:hover {
 }
 
 .chapter-prose {
-  font-family: var(--font-reading);
   font-size: 1.18rem;
-  line-height: 1.85;
-  color: var(--text-primary);
-  text-align: justify;
-  text-justify: inter-word;
-  hyphens: auto;
-  -webkit-hyphens: auto;
 }
 
 .chapter-prose p {
@@ -1596,10 +1549,6 @@ a.btn-journey:hover {
     padding: 0.6rem 1rem;
   }
 
-  .book-cover-hero {
-    padding: 5rem 1rem 3.5rem;
-  }
-
   .cover-hero-logo {
     width: 72px;
   }
@@ -1607,14 +1556,6 @@ a.btn-journey:hover {
   .btn-journey {
     padding: 0.85rem 1.8rem;
     font-size: 0.98rem;
-  }
-
-  .teaser-section {
-    padding: 2.5rem 1rem 3.5rem;
-  }
-
-  .teaser-card {
-    padding: 1.75rem 1.25rem;
   }
 
   .prose,
