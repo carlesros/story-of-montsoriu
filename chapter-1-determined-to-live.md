@@ -6,65 +6,66 @@ date: 2018-09-14
 location: Near the castle Montsoriu
 cover: /images/capitol01/castell-sense-torra.jpg
 ---
-I’m so tired. And hungry. Or I remember being hungry. Weird, I haven’t eaten anything for days, I was starving to the point of falling, but I don’t feel the sting of hunger anymore. How long has it been? I can’t remember. But I’m so tired. Maybe I should just lay here, just for a bit. I can open the left eye almost entirely now, but it has been like this for a while, I feel I won’t be able to fully open it ever again. At least I don’t have to clean the blood flowing from the bite at the nose anymore. And the injury on the right side of my forehead has stopped hurting.
+I’m so tired. And hungry. Or at least, I remember being hungry. Strange—I haven’t eaten in days, starving to the point of collapse, but the sharp sting of hunger is gone now. How long has it been? I can’t remember. I’m just so tired. Maybe I should just lie here, just for a little while. I can open my left eye almost all the way now, but it’s been stuck like this for so long that I wonder if it will ever open fully again. At least the blood from the bite on my nose has stopped running. And the wound above my right eye doesn’t hurt anymore.
 
-No, I have to keep looking. I have to find those large two-legged beings who have food. Where could they have gone? And why did they bring me here? First they put me inside that enormous cage together with them, then the cage roars and the world starts to move, first slowly, then faster and faster. I was so scared. Why didn’t they do anything? Couldn’t they hear my cries? Why were they ignoring me? One of the beings, the largest, yelled angrily. Angry because of me? Why? I didn’t understand. I could only but cry even louder. More yelling. More crying.
+No, I have to keep looking. I have to find those tall, two-legged creatures—the ones with food. Where could they have gone? And why did they bring me here? First, they trapped me inside that enormous cage with them. Then the cage roared, and the world outside began to move—slowly at first, then faster and faster. I was so scared. Why didn't they do something? Couldn't they hear my cries? Why were they ignoring me? One of them, the largest, shouted in anger. Angry at me? Why? What did I do? All I could do was cry even louder. More yelling. More crying.
 
-Finally the world stopped moving and the roaring cage stopped roaring. The largest of the beings got out of the cage. Shortly after, a side of the enormous cage next to me opened and the large being grabbed me and dropped me to one of these grey rugged grounds where fast four-wheeled monsters like to move on, although this time there were none to be seen or heard. We were alone.
+Finally, the world stopped moving, and the roaring cage went quiet. The largest creature disappeared outside. A moment later, the side next to me swung open. Rough hands grabbed me and threw me down onto the coarse, hard ground—the endless gray path where the fast, heavy monsters usually prowled across. But right now, there were none to be seen or heard. We were alone.
 
-I remember well that moment. At each side of the rugged ground, tall trees everywhere I looked. Cheerful birds singing anywhere I listened to. Coming from all directions, all sorts of woodsy scents awakening a fire in me that I didn’t know I had. A slightly chilly air was caressing my fur, not too cold, just right to sharpen me up. It was so pleasant, like nothing I had felt before. I wasn’t scared anymore. Or rather, I was scared, but in an excited scared way, not in the terrified scared way of a moment ago. Sure, who knew what dangers hid that unfamiliar place, but the pull to explore so many marvels was irresistible. Before I realised it, I had already moved to a nearby small plant and I was smelling an intriguing musky scent. Then I turned at once with tension as a roar came from just behind me. The enormous cage was roaring again, transformed into one of those four-wheeled monsters. Ready to climb the nearest tree if needed to, I saw the roaring monster starting to move. Soon after it was gone.
+I remember that moment well. On both sides of the coarse ground, tall trees stood as far as I could see. Cheerful birds called out wherever I listened. From every direction, all sorts of woodland scents drifted in, waking a fire inside me I never knew was there. A cool breeze brushed against my fur—not too cold, just sharp enough to wake my senses. It was wonderful, unlike anything I had ever felt before. I wasn’t scared anymore. Or rather, I was—but it was a nervous thrill, not the paralyzing terror of a moment ago. Who knew what dangers lay hidden in this strange territory? Yet the pull to explore so many marvels was irresistible. Before I even realized it, I was creeping toward a low bush, drawn by an intriguing musky scent. Then I whipped around, body tensing as a deafening roar broke the air behind me. The enormous cage was roaring again, transformed into one of those heavy monsters. Ready to scramble up the nearest tree if I had to, I watched the beast begin to roll away. A moment later, it was gone.
 
-How many days has it been? And where did the two-legged beings go? I haven’t seen them since the roaring monster left. So tired. I think this is it, I can’t anymore.
+How many days has it been? And where did the two-legged creatures go? I haven’t seen them since the roaring monster left. So tired. I think this is it. I can't go on.
 
-Wait, what was that sound? It sounded like the fast varied noises the large two-legged beings emit. But I can’t hear anything now. Guess I just heard what I wanted to hear. Keep looking.
+Wait—what was that? It sounded like the sharp, quick chatter the tall creatures make. But the forest is quiet again now. Nothing. I guess I’m just hearing what I want to hear. Keep moving.
 
-Again! It’s far, but I’m sure now. It came from my right, easily thirty trees away and up the hill. Let’s go.
+There it is again! Faint, but I’m certain this time. It came from the right, easily thirty trees away and up the slope. Move.
 
-It’s strange, it sounds different than the large two-legged beings I know. And now it stopped again. It was close, ten trees away maybe. Please be there still.
+Strange—the voice sounds different from the two-legged creatures I used to know. And now it’s gone quiet again. It was close, maybe ten trees away. Please still be there.
 
-Heavy and clumsy footsteps! No doubt, a large two-legged being. And very close, if it wasn’t for the steep slope flattening at the top I should be able to see it. Just a few steps more, come on, you can do it.
+Heavy, clumsy footsteps! No doubt about it—a two-legged creature. And very close. If the steep rise didn't crest right in front of me, I’d be able to see it. Just a few more steps. Come on, you can make it.
 
-There, a large two-legged being!
+There. A two-legged creature!
 
-“Meowww”
+*Meowww.*
 
-It’s telling me something nice. A mix of surprise and cheerfulness, but I sense worryness too, even a trace of sadness. Sadness towards me? My injuries have healed, no need to worry, but I feel very weak. Do you have food?
+The sounds it makes are gentle. A mix of surprise and warmth, but underneath, I catch worry too—even a trace of sadness. Sadness for me? My wounds have stopped bleeding, no need to fret, but I feel so weak. Do you have food?
 
-“Meowww”
+*Meowww.*
 
-It’s not the same two-legged being that dropped me in this forest. I think it’s telling me it doesn’t have any food. There are two more beings a bit further behind the first one. I don’t know them either. Maybe one of you have food?
+It’s not the one who left me in this forest. And from the sounds it makes, I don't think it has any food. Two more creatures stand a little farther back. I don’t know them either. Maybe one of you has food?
 
-“Meowww”
+*Meowww.*
 
-They’re doing those varied noises again, but directed among themselves, not towards me. Hey, I’m here!
+They’re chattering among themselves now, the quick sounds passing back and forth instead of aimed at me. Hey, I’m right here!
 
-“Meowww”
+*Meowww.*
 
-Nothing. Let me get closer to the first being and show it how happy I am of having found it. There, see, I’m almost rubbing to your leg, my tail fully erected. Feel free to pet me.
+Nothing. Let me get closer to the first creature and show it how happy I am to have found it. There, see? I step in close, leaning toward your leg without quite touching. Tail held straight and high. Feel free to pet me.
 
-“Gurrh”
+*Prr-ooh.*
 
 Nothing.
 
-Hey, where are you going? You forgot to pet me. Ok, let me catch up and offer you to pet me once more. There, I’m next to you again, tail fully erected.
+Hey, where are you going? You forgot to pet me. Alright, let me catch up and offer again. There—I’m right beside you, tail held straight and high.
 
-“Gurrh”
+*Prr-ooh.*
 
-Nothing. And it keeps walking. Keep following. Keep insisting. It doesn’t walk fast, but I’m so tired, I can’t even follow that pace.
+Nothing. And it just keeps walking. Keep following. Don’t give up. It isn’t moving fast, but I’m so weak I can barely match its stride.
 
 No! I’m falling behind.
 
-The last two-legged being seems to walk slower. I think I can follow it. Let me offer it to pet me.
+The last creature seems to move slower. I think I can keep up with this one. Let me give it a chance to pet me.
 
-“Gurrh”
+*Prr-ooh.*
 
-Nothing. And none of them stop. And I’m falling behind once more. Come on, speed up, you can do it.
+Nothing. None of them are stopping. And now I’m falling behind again. Come on—push harder. You can do it.
 
-Ok, I caught up to you once more.
+Alright, I caught up with you.
 
-“Meow”
+*Meow.*
 
 Nothing.
+
 
 What should I do? They don’t seem to have food, and they keep walking. Should I risk my last reserves of energy to follow them? I’m exhausted, if this doesn’t work... But what’s the alternative? I haven’t eaten anything for so many days, or slept warm, or even rested well. I don’t think I’ll make it through this night, these two-legged beings are my last chance.
 
