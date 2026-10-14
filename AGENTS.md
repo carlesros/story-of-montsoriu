@@ -19,12 +19,15 @@ Instructions and guidelines for AI agents working in this repository.
 ```text
 story-of-montsoriu/
 ├── .eleventy.js                  # Eleventy configuration (passthrough copy, directories)
+├── .eleventyignore               # Files and directories excluded from the build (drafts, docs)
 ├── package.json                  # Dependencies and scripts
 ├── index.md                      # Book cover / introduction (uses cover.njk layout)
 ├── chapter-*.md                  # Individual chapter source files
+├── drafts/                       # Historical chapter drafts (tracked in Git, ignored by Eleventy)
 ├── _includes/                    # Nunjucks (.njk) templates and layouts
 │   ├── cover.njk                 # Home/cover layout
-│   └── chapter.njk               # Chapter layout (with header, navigation, and story content)
+│   ├── chapter.njk               # Chapter layout (with header, navigation, and story content)
+│   └── partials/                 # Reusable layout partials (head, header-actions, footer, scripts)
 ├── images/                       # Static media (photos, illustrations, chapter assets)
 │   ├── capitol01/
 │   ├── capitol02/
