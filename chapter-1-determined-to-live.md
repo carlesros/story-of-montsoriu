@@ -66,64 +66,70 @@ Alright, I caught up with you.
 
 Nothing.
 
+What should I do? They don’t seem to have any food, and they won't stop walking. Do I risk my last bit of strength to follow them? I’m exhausted—if this doesn’t work... But what’s the alternative? I haven’t eaten in days, or slept somewhere warm, or even had a proper rest. I don’t think I’ll survive the night. These creatures are my last chance.
 
-What should I do? They don’t seem to have food, and they keep walking. Should I risk my last reserves of energy to follow them? I’m exhausted, if this doesn’t work... But what’s the alternative? I haven’t eaten anything for so many days, or slept warm, or even rested well. I don’t think I’ll make it through this night, these two-legged beings are my last chance.
+*Meowww.*
 
-“Meowww”
+Still no reaction—not even a glance. And yet, the last creature is walking noticeably slower than the other two. I’ll take that as an invitation. For my sake, it had better be. It has to be. Alright, this is my final chance. If this fails, it's over. I’m putting my life in your hands—do you hear me?
 
-No reaction again, not even a glance. And yet, the last being is walking significantly slower than the other two. I’ll take this as an invitation to follow it. For my sake, it better be. It has to be. All right, this is my last chance, if this fails, it's over. I’m putting my life on your hands, do you hear me?
+*Meow.*
 
-“Meow”
+Yes, yes, no reaction. Alright, let me offer myself for a pet to seal our unspoken agreement. There—I’m beside you again, tail straight and high.
 
-Yes, yes, no reaction. Ok, let me offer you to pet me to seal our unspoken agreement. There, I’m again next to you, tail fully erected.
+*Prr-ooh.*
 
-“Gurrh”
+And nothing. What a surprise. Fine, we’ll do it your way. I’ll just follow quietly.
 
-And nothing, what a surprise. Fine, we’ll do it your way. I’ll just follow quietly.
+Yes, I think it really is an invitation to follow. We’ve been walking for a while now, and the other two creatures are so far ahead that I only catch glimpses of them on the longest straight stretches. Fortunately, the trail has been downhill the whole way—the only reason I've managed to keep up.
 
-Yes, I think it’s indeed an invitation to follow it. We’ve been walking for a while now, and the other two-legged beings are now much further ahead, I only see them briefly on long straight segments before the path bends. Fortunately we’ve been walking downhill all the time, this has made it easier to follow.
+My paws, this is taking forever. Earlier, I could catch up whenever I started to fall behind, but now I can barely trail behind at all. How much longer are we going to walk? To make matters worse, I'm not just exhausted anymore—I desperately have to pee. But if I stop even for a second, I know I'll never catch up. Still, I can't hold it any longer. Please, just stop for a moment.
 
-Oh my, this is taking a while. Before, I was able to catch up every time that I was falling behind, but I can barely follow at a distance now. How long are we going to keep walking? Annoyingly now I’m not only exhausted, I do have to pee too. But if I stop for even a moment I don’t think I’ll be able to catch up. But I can’t hold it anymore. Please, stop for a moment.
+*Meowww.*
 
-“Meowww”
+The creature stopped! No time to waste—a frantic scrape at the dirt, and... *ahhh...* sweet relief. Alright, done. We can go now. Thank you.
 
-The two-legged being stopped! No time to waste, a quick hole, and... uff... what a relief. Ok, ready, we can continue. Thank you.
+*Meow.*
 
-“Meow”
+At my call, it resumes walking. No doubt about it—this is an invitation. I just hope there’s food at the end of this trail. I feel lighter after peeing, but my strength is still completely spent, and just thinking about eating has brought back that sharp sting of hunger.
 
-And it resumes walking to my sign. No doubt, it’s an invitation. I hope there’s food at the end of this, I feel lighter after peeing, but I’m still exhausted, and thinking of food has revived the sting of hunger.
+Another long stretch of walking. Still downhill, yet my paws feel heavier with every step. I want to rest so badly, but I’ll lose the creature if I do. Come on, keep moving.
 
-Another long while walking. Always downhill, and yet my steps are starting to feel too heavy. I want to rest so much, but I’ll lose the two-legged being if I do. Come on, keep following.
+And my legs give out—I’m sitting. I can't go another step. I’ve pushed far past what I thought was possible in this state. I need to rest. Just for a moment.
 
-And I’m sitting. I can’t anymore, I went way beyond what I thought I could walk in my condition, I need to rest a little, just a little bit.
+No! The creature isn't stopping. I can’t follow you. Truly, I want to, but I can’t. Please stop. Just let me rest a little.
 
-No!, the two-legged being is not stopping. I can’t follow you. Seriously, I want to, but I can’t. Please stop, let me rest a bit.
+*Meowww.*
 
-“Meowww”
+It turns around, sees me, and... stops! Thank you.
 
-It turns around, sees me and... stops! Thank you.
+Ah, a gentle breeze. It feels so nice—let me just soak it in for a moment.
 
-Ah, a little breeze. It feels nice, let me bask in it for a moment.
+I wonder how this will end. I haven’t seen the other two creatures in a long time. With how fast they were moving, they must be a dozen bends down the slope by now.
 
-I wonder how this will end. I haven’t seen the other two beings for a long time now. They kept walking faster, I suppose they must be much further away by now.
+Alright, I think I can walk a little more. Best not to push my luck—I can’t risk the creature changing its mind if I linger too long. Let’s go. Thank you for waiting.
 
-All right, I think I can walk a bit more. Better I don’t delay this, I can’t risk the two-legged being changing its mind if I linger too long. Let’s go, thank you for waiting.
+*Meow.*
 
-“Meow”
+Ah, I can catch up with the creature again. And I’m even matching its pace without falling behind. That little rest worked wonders. Walking right by its side feels so much better than trailing behind in the dirt. I think the creature likes it, too. It stays quiet without giving any obvious sign—just as it has the whole time—but I can sense it.
 
-Ah, I can catch up to the two-legged being once more. And I’m even able to follow its pace without falling behind. This little rest has worked wonders. It feels much better to walk at its side than at a distance behind. I think the two-legged being likes it too. It keeps quiet without giving any obvious signal, as it has been the whole time, but I can sense it.
+We’re leaving the path? Ah, I understand—a shortcut. The creature must be worried about me. How sweet of you. It’s quite steep, but short. Just a couple of quick hops down and we’re back on the trail. And look—at the end among the trees, I can see it: the coarse, hard gray ground where it all began.
 
-We’re leaving the path? Ah, I understand it, it’s a shortcut. The being must be concerned about me. How nice of you. It’s quite steep, but short. Just a couple of small jumps down and we’re back in the path. And look, at the end of the path I can see the rugged grey ground where it all started.
+The strength from that brief rest is fading fast, but I still manage to reach the edge of the hard stone side by side with the creature. It pauses there for a moment, then steps out to cross. I want to follow, but a wave of terrible memories rushes over me, and my paws freeze. It doesn’t help that the gray expanse feels so bare and exposed. But the creature doesn’t need my plea to stop this time. Of its own accord, it halts right in the middle, facing back toward me, clearly waiting for me to cross as well. It’s keeping its eyes on me now, only breaking away for quick, wary glances along both directions of the open gray strip, as if something might come tearing from the distance.
 
-The benefits of the brief rest are starting to wear off, but I still manage to reach the edge of the rugged ground walking side by side with the being. The two-legged being pauses for a moment there, and then starts crossing the rugged ground. I want to follow, but a rush of bad memories come to me and I hesitate. It doesn’t help either that this rugged ground feels so empty and exposed. But the two-legged being doesn’t need my plea to stop this time. Of its own accord, it stops in the middle of the rugged ground, turned towards me, clearly expecting me to cross the rugged ground too. It’s keeping an eye on me at all times now, except for occasional quick glances at both long sides of the rugged ground, as if something could come from there.
+Alright, I’ve come this far—it makes no sense to turn back now. There. Here I come. See? I’m right beside you again, even out in the middle of this bare, dangerous clearing. Curiously, we don’t cross all the way. Instead, we start walking along its length, and... hey, I can see the other two creatures in the distance. They’re standing in an open patch of packed dirt, just like the trail we left behind. It hugs the left edge of the stone strip for about five fallen trees, starting narrow on our end and swelling outward, opening at its farthest point to about a fallen tree wide. Thick woods press against both ends, while a cliff edge falls away behind it. Next to the creatures sits one of those large four-wheeled cages. We’re heading straight for it. I wonder if this is the end of the journey. Could they keep food inside that cage?
 
-All right, I’ve come this far, it doesn’t make sense to stop here now. There, here I come. See, I’m next to you once more, even in the middle of this exposed and alien ground. Curiously we don’t cross the rugged ground, instead we start walking along it and... Hey, I can see the other two beings in the distance. They’re in an empty area made of hard sand, similar to our previous path. It follows the left side of the rugged ground for about five fallen trees long, and it forms a curved shape of about one fallen tree wide in its widest point. It’s surrounded by forest at the parts where the curve connects with the rugged ground, and a cliff on the widest part. Next to the two-legged beings there’s one of those large four-wheeled cages. We’re walking towards them apparently. I wonder if this is our destination. Maybe they store the food in the cage?
+The thought of food sweeps away whatever fear was left of being out on the bare stone, and I stay glued to the side of my two-legged companion without hesitation. Soon, we reach the edge of the dirt clearing. It’s mostly flat, except here at the mouth, where the ground dips down toward the center. Mmm... one of the creatures by the cage—the very first one I met—is calling out to me. Beckoning me closer, I think. Don’t tell me you have food?! A thrill ripples through my entire body. My muscles somehow find a sudden spark of strength, my tail arches high, swaying softly in cautious hope, and my ears swivel forward so I don’t miss a single sign. And then, as if my paws had a mind of their own, they pick up speed—leaving my fellow traveler behind in the dust.
 
-The possibility of food removes the last remnants of fear from feeling exposed in the rugged ground, and I follow at the side of my two-legged being travel companion without hesitation. Soon we reach the beginning of the empty area. The area is mostly flat, except on this side, where it descents smoothly towards its center. Mmm... one of the two-legged beings next to the large cage, the one that I first met, is telling me something. I think it’s encouraging me to come closer. Don’t tell me you have food?! All my body gets excited at the possibility, my muscles somehow muster a resemblance of rigidness and strength, my tail raises and starts undulating slowly in a cautious anticipation, my ears point forward to make sure I don’t miss any important sign, and, incredibly, my legs start to accelerate the pace and I leave behind my travel companion.
+As I near the cage, one of the creatures slips inside to sit on a wide, padded ledge that spans the interior from side to side. The other one—the one that had been coaxing me forward—gestures toward the opening where the first creature just settled. That’s it! The one inside must have the food, and this creature is pointing the way. What else could all this waving mean?
 
-As I’m approaching the two-legged beings next to the cage, one enters in the cage to sit in a soft L shaped object that extends the cage from side to side, while the other one, the one that has been encouraging me to come, signals me the interior of the cage too, in the same opening where the other being is sitting. That’s it, the being inside the cage must have food and the being outside is pointing me towards it. What else could they be signaling otherwise? Just a couple of steps more, and here I am, next to you. The food is in the cage you say, right? There, two steps more and I’m at the opening in the cage. Let me peek inside by standing up with my two front paws at the edge of the opening and my nose scanning the inside. “Sniff”, “sniff”... Where is the food? Hey, why are you lifting me towards the inside of the cage? The being inside the cage is moving its hands towards me. Do you hold the food in them? “Sniff”, “sniff”... where is the foo... hey, why are you grabbing me too and putting me on your lap?
+Just a couple more bounds and I’m right at your feet. The food is inside, you say? Two more steps, and I reach the opening. Standing tall on my hind legs, I prop my front paws against the sill to peer in, nose twitching as I scan the air. *Sniff*, *sniff*... Where is it?
 
-“Bam!”
+Hey—why are you scooping me up toward the inside?
+
+The creature resting inside reaches its hands out toward me. Are you holding food in them? *Sniff*, *sniff*... Where is the foo—hey! Why are you grabbing me, too, and pulling me right into your lap?
+
+
+*Bam!*
 
 Oh no, the cage has closed! No!
 
