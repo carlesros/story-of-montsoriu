@@ -128,38 +128,40 @@ Hey—why are you scooping me up toward the inside?
 
 The creature resting inside reaches its hands out toward me. Are you holding food in them? *Sniff*, *sniff*... Where is the foo—hey! Why are you grabbing me, too, and pulling me right into your lap?
 
+*Thud!*
 
-*Bam!*
+Oh no—the cage has snapped shut! No!
 
-Oh no, the cage has closed! No!
+*Meowww.*
 
-“Meowww”
+*Clack, clack.*
 
-“Clack, clack”
+Up front, the sides of the cage pull open. A tall, padded barrier rises right in front of me, blocking the view from my trapped spot, but I can hear the familiar sounds of the other two creatures ducking inside: the one that I first met slipping in on the left, and my journey companion on the right.
 
-The cage opens further at the front, at both sides. There’s a tall soft object in front of me that prevents me from seeing them from my trapped position, but I recognize the by now familiar sounds of the other two-legged beings entering the cage. The one that I first met at the left side, and my travel companion at the right.
+*Thud! Thud!*
 
-“Bam!, Bam!”
+And the cage is sealed again. I’m so scared.
 
-And the cage is closed again. I’m so scared.
+*Meowww.*
 
-“Meowww”
+It’s just like last time. It’s over. Why? What did I do wrong?
 
-This is like the other time. It’s over. Why? What have I done wrong?
+*Meowww.*
 
-“Meowww”
+The cage begins to rumble, and just like that first hollow trap that brought me here, the world outside starts to slide away.
 
-The cage starts to roar and, exactly like in the first cage that brought me here, the world outside the cage starts to move.
+*Meowww.*
 
-“Meowww”
+The creature holding me in its lap strokes me gently with a finger, never loosening its firm grip. The soothing touch slowly works its way into my fur. Maybe this isn’t like last time after all? There is no shouting. Instead, the creature in the front left speaks to me in soft, friendly murmurs—I can feel a strange ache of tenderness and sorrow in its voice, aimed right at me. Then, just over the cushioned barrier on the front right, my journey companion’s head turns around. Its eyes carry that exact same sorrow and gentle warmth. They seem kind.
 
-The being holding me on its lap is caressing me with one of its fingers, while still firmly immobilizing me. The caress has a nice tranquilizing effect. Maybe it’s different than the other time after all? There is no yelling, instead the being in the front left is telling me something in a friendly tone. I can sense a mix of tenderness and sadness directed towards me. And I can see the head of my travel companion rising above the L shaped object where it’s sitting at the front right. Its look shows the same mix of tenderness and sadness as the voice of the other being, also directed towards me. They seem good. Still, if that’s the case, why have they tricked me and put me in this cage? I trusted you, I spent the few energy reserves I had left for you.
+Still... if they are kind, why did they lure me into this cage? I trusted you. I burned through every shred of strength I had left just to stay with you.
 
-“Meowww”
+*Meowww.*
+
 
 The being holding me moves me to its right side, letting me flat on the soft L shaped object. Once there its left hand slides along my back to my neck, exercising a soft but firm downward push that immobilises me with a single hand. Afterwards, the other hand ungrabs me and I hear it stirring something that makes a crunchy noise. Shortly after, the free hand rises my behind slightly and slides what feels like a soft fabric around me. Then, with the hand holding me, it rises my front while it tries to slide the soft fabric further up along my body. I notice the fabric wrapping around my front legs and I manage to move them forward so they don’t get trapped. This repeats a couple of times more, with the being trying to slide the fabric around my front legs, and me managing to move them forward away from getting trapped. Why are you doing this?
 
-“Meowww”
+*Meowww.*
 
 Eventually the being manages to push my front legs inside the fabric and close the gap around my neck with the legs inside. I have my entire body, legs included, inside a sack, with only my head popping out from an opening closed around my neck. Why?
 
