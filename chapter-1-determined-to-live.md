@@ -212,12 +212,14 @@ When the splashing cuts off, the creature turns and walks slowly back toward me,
 
 *Meow.*
 
+I step forward, and the cool scent hits my nose—water! I dip my head and begin drinking eagerly. And drinking. And drinking. The gnawing ache of hunger had been so loud in my belly that I hadn't even realized how parched my throat was.
 
-I approach the bowl, and indeed, it’s water! I start eagerly drinking. And drinking. And drinking. I was so hungry that I didn’t even realise how thirsty I was too.
+When I finally lift my head from the water, thirst quenched, the other creature begins murmuring softly toward me, its voice filled with the same gentle warmth. It stands beside the enormous sheet of cloth lying half-unrolled across the stone, gesturing low to the ground as if coaxing me over.
 
-When I finally lift my head from the bowl, thirst quenched, I hear the other being telling me nice and encouraging things too. It’s standing next to an enormous fabric that lays on the floor half unrolled. I think it’s inviting me to step on the fabric. It looks cozy.
+The soft, folded material looks dry and inviting, a thick barrier against the freezing floor.
 
-I walk towards the fabric and step on it straight away. Its soft and scratchy touch is a pleasant change from the hard and cold floor of the chamber. I contract my paws slightly, enough to feel the resistance of the fabric on my claws, sending a relaxing and comforting feeling throughout my body. It’s cozy indeed.
+I step toward the cloth and plant my paws on it without hesitation. Its coarse, textured surface is an immediate relief from the hard chill of the cavern floor. I flex my toes, sinking my claws just deep enough to catch against the stiff, woven grid, releasing a warm, soothing thrum that ripples all the way through my spine. Soft enough to give beneath my weight, and wonderfully thick against the cold.
+
 
 “Clack”
 
