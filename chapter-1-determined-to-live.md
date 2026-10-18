@@ -158,32 +158,48 @@ Still... if they are kind, why did they lure me into this cage? I trusted you. I
 
 *Meowww.*
 
+The creature holding me shifts me to its right, setting me flat onto the padded surface. Its left hand slides up along my back to the back of my neck, pressing down gently but firmly to keep me pinned in place with one palm. Then the other hand lets go. Beside me, I hear it rustling through something that crackles and crunches.
 
-The being holding me moves me to its right side, letting me flat on the soft L shaped object. Once there its left hand slides along my back to my neck, exercising a soft but firm downward push that immobilises me with a single hand. Afterwards, the other hand ungrabs me and I hear it stirring something that makes a crunchy noise. Shortly after, the free hand rises my behind slightly and slides what feels like a soft fabric around me. Then, with the hand holding me, it rises my front while it tries to slide the soft fabric further up along my body. I notice the fabric wrapping around my front legs and I manage to move them forward so they don’t get trapped. This repeats a couple of times more, with the being trying to slide the fabric around my front legs, and me managing to move them forward away from getting trapped. Why are you doing this?
+Moments later, that free hand lifts my rear off the seat and slides a soft fabric pouch around my hind legs. Then, easing up on its grip, it tries to pull the opening of the pouch farther along my body. But the moment the rim brushes against my front legs, I kick my paws forward so they don’t get trapped inside. The creature tries again, tugging the soft ring of fabric up over my chest, and every time, I scramble my paws forward, keeping them safely out in the open.
+
+Why are you doing this? What are you trying to put me in?
 
 *Meowww.*
 
-Eventually the being manages to push my front legs inside the fabric and close the gap around my neck with the legs inside. I have my entire body, legs included, inside a sack, with only my head popping out from an opening closed around my neck. Why?
+Eventually, the creature manages to guide my front paws inside the cloth and draws the rim tight around my neck. Now my entire body is sealed within the pouch, every limb pinned close, with only my head poking out through the gathered opening. Why?
 
-“Meowww”
+*Meowww.*
 
-I see how my travel companion at the front right raises from its seat, places a leg through the gap between the two tall soft objects where the beings in the front have been sitting all this time, and clumsily crosses the gap to sit at my right. Right after, I feel its caress through the sack on my right side. It should be comforting, but I’m too scared.
+Up front, my journey companion rises, twisting around to face the back. It squeezes a long leg through the narrow channel between the two padded barriers, shifting its weight and awkwardly clambering through the gap until it settles down right beside me. A moment later, I feel its hand stroking my flank through the fabric. It should be comforting, but the terror is still too loud.
 
-I can’t see the forest outside the cage now, only the sky. When have we left the forest? I haven’t even noticed. And what’s this trembling? It’s faster and more regular than the unpredictable rocking movement of the cage. Oh, it’s me. My body is shaking from fear. Please, put an end to this.
+Through the transparent barriers of the cage, the forest is gone. All I can see now is empty sky. When did the trees disappear? I didn't even notice. And what is this strange fluttering beneath my fur? It’s humming faster, more evenly than the heavy rocking of the cage beneath us. Oh... it’s me. My own body is shivering with terror. Please, make it stop.
 
-“Meowww”
+*Meowww.*
 
-We go on like this for a while, me inside the sack laying flat between the two beings, while the one at the left makes sure that I don’t move and the one at the right caresses me though the sack. I manage a couple of times to put a leg outside the sack, but it’s promptly pushed back inside. Somehow my fear starts to diminish, I’m no longer trembling. Maybe due to the caresses, maybe due to the friendly voices I hear from them towards me, maybe due to the exhaustion finally penetrating through my fear. Probably due to all of them.
+We travel on like this for a long time: me pinned flat between the two creatures inside the pouch, the one on the left keeping me gently weighed down while the one on the right strokes my flank through the cloth. Once or twice, I manage to work a paw free past the gathered rim, but a gentle hand nudges it straight back inside.
+
+Slowly, the terror begins to loosen its grip. The violent trembling subsides. Maybe it’s the warmth of their hands soaking through the cloth, maybe the soothing rhythm of their murmurs, or maybe bone-deep exhaustion is finally breaking through the panic. Probably all of it together.
 
 I yawn.
 
-Eventually the sky is replaced by strange tall dull flat rocks. I think I saw similar tall rocks the day I was brought to the forest, but these ones look somehow different.
+Eventually, the open sky is swallowed by strange, towering flat stones rising in straight, unnatural walls. I think I caught glimpses of similar cliffs the day I was brought to the forest, but these look somehow different.
 
-The tall rocks keep flying by, until the roaring cage stops next to one of them, the cage opens at the front-left side, the two-legged being sitting there leaves the cage, and the opening closes again. Shortly after I hear a rocklike noise, but sharper, coming from the tall rock, followed by a repeating rumble noise, like a rock sliding, but sharper too. Then the sliding rocklike noise stops, and silence takes over, broken only by the now soft roaring of the cage, like if it was deeply asleep. The soft roaring has a relaxing effect on me, and my eyes are starting to feel heavy. Or maybe it’s just the exhaustion.
+The tall stone walls keep gliding past until the roaring cage finally rolls to a stop beside one of them. The front-left barrier swings open, the creature sitting there slips out into the air, and the gap seals shut once more.
 
-This peace is short lived though. The cage opens again at the front-left side, the being reenters the cage, and the opening closes again. Then the cage awakens, and after a disconcerting back and forward maneuver, it enters the tall rock moving backwards. My temporary relaxation is instantaneously replaced by tension and alertness. What’s going on? I don’t even dare to say anything.
+Moments later, a sharp, ringing snap echoes from the foot of the wall, followed by a harsh, shuddering rattle that rolls upward—like a strange, hollow sheet of stone grinding over itself. Then the grinding cuts off. Everything outside falls still, broken only by the low, steady purr of the cage beneath my paws, as if the beast had slipped into a deep, rhythmic slumber.
 
-Once fully inside the tall rock, the cage stops moving and roaring. This time it doesn’t do the soft roaring, but instead it goes absolutely quiet. Then, once more, the cage opens at the front-left, the being sitting next to it leaves the cage, and the opening closes right afterwards. Shortly after I hear the rock sliding sound, which ends with an abrupt impact sound, as if the rock hit another rock. And then I’m taken out from the sack, the cage opens at both of my sides, and I’m put down on a flat floor that feels like a smooth rock.
+The muffled vibration hums through the padded surface beneath me, soothing and warm. My eyelids begin to droop. Or maybe it’s just the exhaustion finally dragging me under.
+
+But the peace doesn't last. The front-left barrier pulls open again, the creature ducks back inside, and the gap seals shut. Then the beast shudders awake. After a jarring lurch forward and back, the whole cage begins to slide backward, slipping tail-first into the hollow belly beneath the tall stone.
+
+In an instant, every trace of comfort vanishes, replaced by rigid, razor-sharp alertness. What is happening? I don’t even dare make a sound.
+
+Once we are deep inside the hollow of the tall stone, the cage stops rolling, its low roar cutting out entirely. This time there is no gentle, sleepy purr—only sudden, absolute silence.
+
+Up front, the left barrier swings open, the creature slips out into the stillness, and the opening snaps shut behind it. A moment later, that harsh, grinding rattle echoes again as the stone sheet slides back down, ending in a heavy, shuddering thud, like rock slamming against rock.
+
+Then hands loosen the gathered cloth around my neck, sliding the pouch off my body. Both sides of the cage pull open, letting in the cool, still air. Warm hands lift me through the opening and set me down onto the bare ground—a flat expanse of polished, ice-cold stone.
+
 
 At first I don’t move, but then curiosity takes over and I follow an inspection route. I find myself in what looks to be a large chamber of a cave. It reminds me of the den of the previous two-legged beings I was with: a flat floor, four flat walls and a flat roof, with all sorts of strange objects lying around. This chamber is larger than any of the chambers from the previous den though. And it doesn’t have any exits or views to the outside. I only see walls, not even the entrance through which the cage entered the chamber. The distribution of the strange objects is also different. Here all the objects are either hanging from the walls or laying on the floor next to the walls, but there isn’t any object in the middle of the chamber besides the wheeled cage, now resting immobile and quiet. The three beings are also in the chamber with me.
 
