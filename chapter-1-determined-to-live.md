@@ -200,12 +200,18 @@ Up front, the left barrier swings open, the creature slips out into the stillnes
 
 Then hands loosen the gathered cloth around my neck, sliding the pouch off my body. Both sides of the cage pull open, letting in the cool, still air. Warm hands lift me through the opening and set me down onto the bare ground—a flat expanse of polished, ice-cold stone.
 
+At first I stand frozen on all fours against the chill of the stone. But curiosity soon coaxes my paws forward, and I begin to wander through the space.
 
-At first I don’t move, but then curiosity takes over and I follow an inspection route. I find myself in what looks to be a large chamber of a cave. It reminds me of the den of the previous two-legged beings I was with: a flat floor, four flat walls and a flat roof, with all sorts of strange objects lying around. This chamber is larger than any of the chambers from the previous den though. And it doesn’t have any exits or views to the outside. I only see walls, not even the entrance through which the cage entered the chamber. The distribution of the strange objects is also different. Here all the objects are either hanging from the walls or laying on the floor next to the walls, but there isn’t any object in the middle of the chamber besides the wheeled cage, now resting immobile and quiet. The three beings are also in the chamber with me.
+I find myself inside a tall, enclosed cavern. It reminds me of the den where the previous two-legged creatures kept me: flat stone underpaw, flat walls rising straight up, and a flat ceiling sealing the sky away. But this place feels different. There are no openings, no drafts, not even a trace of the gap where the cage entered—only solid walls locking us inside.
 
-Or rather, they were with me, I only see two now. One of the beings, the first one I met, is unrolling a large fabric on the floor. The other being, the one that was holding me, is inside a cavity on one side of the walls, with its back facing me. Sound of running water is coming from there. Then the sound stops, and the being turns around and starts walking towards me. It’s carefully holding a bowl in its hands, and as it lowers the bowl to the floor it tells me nice and encouraging things. Is there water in there?
+All around, strange, lifeless shapes hang high along the stone or clutter the ground near the edges, leaving the floor open around the cage, now resting motionless and quiet. Nearby, the three creatures are still here with me, busy with their own routines, their familiar presence lingering in the cavern while I explore.
 
-“Meow”
+Or rather, they were with me. When I glance around, I only see two. The first creature I ever met is unrolling a wide, thick sheet of cloth across the bare stone. The other, the one that held me during the journey, stands tucked inside a shallow recess in the wall with its back turned to me. From that opening comes the unmistakable hiss and splash of running water.
+
+When the splashing cuts off, the creature turns and walks slowly back toward me, balancing a small, curved hollow between its two palms. It crouches, gently resting the smooth container on the floor while murmuring soft, soothing sounds. Is that water inside?
+
+*Meow.*
+
 
 I approach the bowl, and indeed, it’s water! I start eagerly drinking. And drinking. And drinking. I was so hungry that I didn’t even realise how thirsty I was too.
 
