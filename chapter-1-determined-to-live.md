@@ -220,38 +220,43 @@ The soft, folded material looks dry and inviting, a thick barrier against the fr
 
 I step toward the cloth and plant my paws on it without hesitation. Its coarse, textured surface is an immediate relief from the hard chill of the cavern floor. I flex my toes, sinking my claws just deep enough to catch against the stiff, woven grid, releasing a warm, soothing thrum that ripples all the way through my spine. Soft enough to give beneath my weight, and wonderfully thick against the cold.
 
+*Clack.*
 
-“Clack”
+A sharp, hard snap echoes from the far corner of the cavern. The wheeled cage blocks my view, but looking beneath it I spot two familiar feet. I slip around the back of the cage just in time to see the third creature—my journey companion—standing beside a newly opened gap in the solid wall.
 
-That sound came from the far corner of the chamber. The wheeled cage blocks my view, but looking underneath the cage I spot two feet. I move around the cage to find out the third being, my travel companion, next to a newly formed hole in one of the walls.
+*Clack.*
 
-“Clack”
+The wooden slab swings shut, and the gap vanishes. I recognize it now: one of those tall, flat wooden barriers that stand between the different parts of a den. So this vast, cold space isn't the whole den—there are other, deeper spaces hidden beyond the wall.
 
-And the hole closes. I see, it’s one of those wooden rectangular devices that populate the beings dens between adjacent chambers. So this isn’t the only chamber in this den.
+My companion spots me and crouches down, lowering a second curved hollow toward the floor while coaxing me forward with soft murmurs. Curious, I take a step to see what might be in the—FOOD!
 
-The being sees me and starts lowering a bowl to the floor too, encouraging me to approach it. I’m curious what’s in the... FOOD!
+*MEOW!*
 
-“MEOW!”
+I’m right here. Put it down! You’re moving too slow.
 
-I’m here. Put that bowl down. You’re too slow.
+*Meow.*
 
-“Meow”
+The first dry, crunchy morsel that hits my tongue is the most glorious thing I have ever tasted. And the second piece. And the third. The fourth and fifth go down together. The sixth I swallow whole, not even bothering to chew. Seventh, eighth, ninth... In the blink of an eye, the hollow is licked bare. And my belly is still hollow.
 
-The first crunchy dry piece that I engulf is the best food I’ve ever eaten. And the second piece. And the third. The fourth and fifth go down simultaneously. The sixth I swallow without bothering to chew. Seventh, eight, ninth... I finish the entire bowl in a blink of an eye. And I’m still hungry.
+*Meow.*
 
-“Meow”
+My journey companion tips a thick, crinkling sack downward, and to my sheer ecstasy, a rattle of fresh, crunchy bites comes tumbling out. I don't even wait for the stream to stop—I dive back in, snapping up pieces mid-fall as they strike the bottom of the hollow. I tear through them so fast it looks as though I never had a first meal at all. Maybe the starving hollow in my belly is playing tricks on me, but every crunch is pure heaven.
 
-The two-legged being tilts a bag towards the bowl, and to my immense pleasure more of those crunchy dry pieces drop from the bag to the bowl. I resume eating while the pieces are still falling into the bowl. I eat at a pace that it might seem as if I haven’t eaten the first bowl at all. Maybe it’s the hunger playing tricks, but they taste delicious.
+The second helping vanishes just as quickly. A lingering hunger still tugs at my belly, but the sharp, stabbing ache of the past days is gone. Such vast relief.
 
-The second bowl also vanishes in a blink of an eye. I’m still hungry, but it isn’t the painful starvation from these last days anymore. So much better. I look for my travel companion hoping for more food, but it’s not next to me anymore. I was so focused on the food that I didn’t notice it had moved away towards the large fabric.
+I lift my chin to beg my journey companion for more, but find only empty space beside me. My senses had been so locked onto the food that I never even registered the footsteps moving away toward the thick cloth.
 
-I walk back to the fabric, next to my travel companion. The other two beings are also nearby. They’ve been emitting the varied noises that the two-legged beings emit, but this time I don’t feel ignored, rather I feel their attention directed towards me. On one paw I feel safe for the first time in countless days, but on the other paw I’m in an unfamiliar place and the dreadful experiences of the last says still haunt me.
+I pad back across the stone to the cloth, settling near my companion while the other two linger close behind. Their voices rise and fall in that strange, rapid chatter tall creatures make, but the tones are soft now. I don't feel ignored or cast aside—every pair of eyes, every warm shift in their posture, is turned gently toward me.
 
-I drop flat on the fabric on my side, looking at my travel companion, front legs stretching towards it in a mix of gratitude and pleading. Thanks for giving me food and safety, but please don’t leave me now.
+On one paw, a deep, heavy sense of safety settles into my chest for the first time in countless days. But on the other paw, the scent of this territory is entirely alien, and the cold terrors of the past days still twitch beneath my skin, refusing to let my guard drop completely.
 
-And my travel companion kneels and caresses my side. It feels good. It feels comforting. Its hand tenderly caressing my side, while my paw rests on its arm.
+I let my body give way, collapsing onto my side against the coarse weave. My gaze remains locked on my journey companion as my front legs stretch outward in an open, desperate reach—a plea carved from both gratitude and terror. Thank you for the feast, thank you for the shelter, but please, do not vanish into the dark again.
 
-We remain like this for a while. Now and then I get up, just to drop straight away on the fabric again, and we repeat the mutual caresses. Comfort slowly pushes fear away, but soon I realise that fear was the gate keeping exhaustion at bay. As soon as comfort displaces fear entirely, I feel the gate opening and exhaustion comes rushing filling my entire body. The cozyness of the fabric becomes an irresistible pull and with the feeling of safety among these three two-legged beings I curl on the fabric and close my eyes.
+As if understanding the trembling reach of my limbs, the creature sinks to its knees and reaches out. A broad, warm palm glides across my flank. The touch is steady, gentle, and infinitely reassuring. Long strokes smooth down my ribs, easing the knots of fear one by one, while my outstretched paw rests softly against the bare, warm skin of its arm.
+
+We remain like this for a long time. Every so often I scramble to my feet, only to collapse right back down onto the textured weave, trading soft touches and purrs with the warm hands above me. Comfort steadily crowds out terror, but in doing so, it unlatches a deeper, older dam. Fear was the only thing keeping the crushing weight of weariness at bay. Now that fear has melted, a heavy, bone-deep exhaustion crashes over my entire body.
+
+The coarse thickness beneath my belly radiates a fierce, magnetic pull. Wrapped in the quiet safety of these three two-legged creatures, my stiff muscles finally yield. I curl tight against the fibers, bury my nose into the weave, and let my eyelids slide shut.
 
 It has been a long day. Many long days.
 
