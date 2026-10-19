@@ -6,219 +6,257 @@ date: 2018-09-14
 location: Near the castle Montsoriu
 cover: /images/capitol01/castell-sense-torra.jpg
 ---
-I’m so tired. And hungry. Or I remember being hungry. Weird, I haven’t eaten anything for days, I was starving to the point of falling, but I don’t feel the sting of hunger anymore. How long has it been? I can’t remember. But I’m so tired. Maybe I should just lay here, just for a bit. I can open the left eye almost entirely now, but it has been like this for a while, I feel I won’t be able to fully open it ever again. At least I don’t have to clean the blood flowing from the bite at the nose anymore. And the injury on the right side of my forehead has stopped hurting.
+I’m so tired. And hungry. Or at least, I remember being hungry. Strange—I haven’t eaten in days, starving to the point of collapse, but the sharp sting of hunger is gone now. How long has it been? I can’t remember. I’m just so tired. Maybe I should just lie here, just for a little while. I can open my left eye almost all the way now, but it’s been stuck like this for so long that I wonder if it will ever open fully again. At least the blood from the bite on my nose has stopped running. And the wound above my right eye doesn’t hurt anymore.
 
-No, I have to keep looking. I have to find those large two-legged beings who have food. Where could they have gone? And why did they bring me here? First they put me inside that enormous cage together with them, then the cage roars and the world starts to move, first slowly, then faster and faster. I was so scared. Why didn’t they do anything? Couldn’t they hear my cries? Why were they ignoring me? One of the beings, the largest, yelled angrily. Angry because of me? Why? I didn’t understand. I could only but cry even louder. More yelling. More crying.
+No, I have to keep looking. I have to find those tall, two-legged creatures—the ones with food. Where could they have gone? And why did they bring me here? First, they trapped me inside that enormous cage with them. Then the cage roared, and the world outside began to move—slowly at first, then faster and faster. I was so scared. Why didn't they do something? Couldn't they hear my cries? Why were they ignoring me? One of them, the largest, shouted in anger. Angry at me? Why? What did I do? All I could do was cry even louder. More yelling. More crying.
 
-Finally the world stopped moving and the roaring cage stopped roaring. The largest of the beings got out of the cage. Shortly after, a side of the enormous cage next to me opened and the large being grabbed me and dropped me to one of these grey rugged grounds where fast four-wheeled monsters like to move on, although this time there were none to be seen or heard. We were alone.
+Finally, the world stopped moving, and the roaring cage went quiet. The largest creature disappeared outside. A moment later, the side next to me swung open. Rough hands grabbed me and threw me down onto the coarse, hard ground—the endless gray path where the fast, heavy monsters usually prowled across. But right now, there were none to be seen or heard. We were alone.
 
-I remember well that moment. At each side of the rugged ground, tall trees everywhere I looked. Cheerful birds singing anywhere I listened to. Coming from all directions, all sorts of woodsy scents awakening a fire in me that I didn’t know I had. A slightly chilly air was caressing my fur, not too cold, just right to sharpen me up. It was so pleasant, like nothing I had felt before. I wasn’t scared anymore. Or rather, I was scared, but in an excited scared way, not in the terrified scared way of a moment ago. Sure, who knew what dangers hid that unfamiliar place, but the pull to explore so many marvels was irresistible. Before I realised it, I had already moved to a nearby small plant and I was smelling an intriguing musky scent. Then I turned at once with tension as a roar came from just behind me. The enormous cage was roaring again, transformed into one of those four-wheeled monsters. Ready to climb the nearest tree if needed to, I saw the roaring monster starting to move. Soon after it was gone.
+I remember that moment well. On both sides of the coarse ground, tall trees stood as far as I could see. Cheerful birds called out wherever I listened. From every direction, all sorts of woodland scents drifted in, waking a fire inside me I never knew was there. A cool breeze brushed against my fur—not too cold, just sharp enough to wake my senses. It was wonderful, unlike anything I had ever felt before. I wasn’t scared anymore. Or rather, I was—but it was a nervous thrill, not the paralyzing terror of a moment ago. Who knew what dangers lay hidden in this strange territory? Yet the pull to explore so many marvels was irresistible. Before I even realized it, I was creeping toward a low bush, drawn by an intriguing musky scent. Then I whipped around, body tensing as a deafening roar broke the air behind me. The enormous cage was roaring again, transformed into one of those heavy monsters. Ready to scramble up the nearest tree if I had to, I watched the beast begin to roll away. A moment later, it was gone.
 
-How many days has it been? And where did the two-legged beings go? I haven’t seen them since the roaring monster left. So tired. I think this is it, I can’t anymore.
+How many days has it been? And where did the two-legged creatures go? I haven’t seen them since the roaring monster left. So tired. I think this is it. I can't go on.
 
-Wait, what was that sound? It sounded like the fast varied noises the large two-legged beings emit. But I can’t hear anything now. Guess I just heard what I wanted to hear. Keep looking.
+Wait—what was that? It sounded like the sharp, quick chatter the tall creatures make. But the forest is quiet again now. Nothing. I guess I’m just hearing what I want to hear. Keep moving.
 
-Again! It’s far, but I’m sure now. It came from my right, easily thirty trees away and up the hill. Let’s go.
+There it is again! Faint, but I’m certain this time. It came from the right, easily thirty trees away and up the slope. Move.
 
-It’s strange, it sounds different than the large two-legged beings I know. And now it stopped again. It was close, ten trees away maybe. Please be there still.
+Strange—the voice sounds different from the two-legged creatures I used to know. And now it’s gone quiet again. It was close, maybe ten trees away. Please still be there.
 
-Heavy and clumsy footsteps! No doubt, a large two-legged being. And very close, if it wasn’t for the steep slope flattening at the top I should be able to see it. Just a few steps more, come on, you can do it.
+Heavy, clumsy footsteps! No doubt about it—a two-legged creature. And very close. If the steep rise didn't crest right in front of me, I’d be able to see it. Just a few more steps. Come on, you can make it.
 
-There, a large two-legged being!
+There. A two-legged creature!
 
-“Meowww”
+*Meowww.*
 
-It’s telling me something nice. A mix of surprise and cheerfulness, but I sense worryness too, even a trace of sadness. Sadness towards me? My injuries have healed, no need to worry, but I feel very weak. Do you have food?
+The sounds it makes are gentle. A mix of surprise and warmth, but underneath, I catch worry too—even a trace of sadness. Sadness for me? My wounds have stopped bleeding, no need to fret, but I feel so weak. Do you have food?
 
-“Meowww”
+*Meowww.*
 
-It’s not the same two-legged being that dropped me in this forest. I think it’s telling me it doesn’t have any food. There are two more beings a bit further behind the first one. I don’t know them either. Maybe one of you have food?
+It’s not the one who left me in this forest. And from the sounds it makes, I don't think it has any food. Two more creatures stand a little farther back. I don’t know them either. Maybe one of you has food?
 
-“Meowww”
+*Meowww.*
 
-They’re doing those varied noises again, but directed among themselves, not towards me. Hey, I’m here!
+They’re chattering among themselves now, the quick sounds passing back and forth instead of aimed at me. Hey, I’m right here!
 
-“Meowww”
+*Meowww.*
 
-Nothing. Let me get closer to the first being and show it how happy I am of having found it. There, see, I’m almost rubbing to your leg, my tail fully erected. Feel free to pet me.
+Nothing. Let me get closer to the first creature and show it how happy I am to have found it. There, see? I step in close, leaning toward your leg without quite touching. Tail held straight and high. Feel free to pet me.
 
-“Gurrh”
+*Prr-ooh.*
 
 Nothing.
 
-Hey, where are you going? You forgot to pet me. Ok, let me catch up and offer you to pet me once more. There, I’m next to you again, tail fully erected.
+Hey, where are you going? You forgot to pet me. Alright, let me catch up and offer again. There—I’m right beside you, tail held straight and high.
 
-“Gurrh”
+*Prr-ooh.*
 
-Nothing. And it keeps walking. Keep following. Keep insisting. It doesn’t walk fast, but I’m so tired, I can’t even follow that pace.
+Nothing. And it just keeps walking. Keep following. Don’t give up. It isn’t moving fast, but I’m so weak I can barely match its stride.
 
 No! I’m falling behind.
 
-The last two-legged being seems to walk slower. I think I can follow it. Let me offer it to pet me.
+The last creature seems to move slower. I think I can keep up with this one. Let me give it a chance to pet me.
 
-“Gurrh”
+*Prr-ooh.*
 
-Nothing. And none of them stop. And I’m falling behind once more. Come on, speed up, you can do it.
+Nothing. None of them are stopping. And now I’m falling behind again. Come on—push harder. You can do it.
 
-Ok, I caught up to you once more.
+Alright, I caught up with you.
 
-“Meow”
+*Meow.*
 
 Nothing.
 
-What should I do? They don’t seem to have food, and they keep walking. Should I risk my last reserves of energy to follow them? I’m exhausted, if this doesn’t work... But what’s the alternative? I haven’t eaten anything for so many days, or slept warm, or even rested well. I don’t think I’ll make it through this night, these two-legged beings are my last chance.
+What should I do? They don’t seem to have any food, and they won't stop walking. Do I risk my last bit of strength to follow them? I’m exhausted—if this doesn’t work... But what’s the alternative? I haven’t eaten in days, or slept somewhere warm, or even had a proper rest. I don’t think I’ll survive the night. These creatures are my last chance.
 
-“Meowww”
+*Meowww.*
 
-No reaction again, not even a glance. And yet, the last being is walking significantly slower than the other two. I’ll take this as an invitation to follow it. For my sake, it better be. It has to be. All right, this is my last chance, if this fails, it's over. I’m putting my life on your hands, do you hear me?
+Still no reaction—not even a glance. And yet, the last creature is walking noticeably slower than the other two. I’ll take that as an invitation. For my sake, it had better be. It has to be. Alright, this is my final chance. If this fails, it's over. I’m putting my life in your hands—do you hear me?
 
-“Meow”
+*Meow.*
 
-Yes, yes, no reaction. Ok, let me offer you to pet me to seal our unspoken agreement. There, I’m again next to you, tail fully erected.
+Yes, yes, no reaction. Alright, let me offer myself for a pet to seal our unspoken agreement. There—I’m beside you again, tail straight and high.
 
-“Gurrh”
+*Prr-ooh.*
 
-And nothing, what a surprise. Fine, we’ll do it your way. I’ll just follow quietly.
+And nothing. What a surprise. Fine, we’ll do it your way. I’ll just follow quietly.
 
-Yes, I think it’s indeed an invitation to follow it. We’ve been walking for a while now, and the other two-legged beings are now much further ahead, I only see them briefly on long straight segments before the path bends. Fortunately we’ve been walking downhill all the time, this has made it easier to follow.
+Yes, I think it really is an invitation to follow. We’ve been walking for a while now, and the other two creatures are so far ahead that I only catch glimpses of them on the longest straight stretches. Fortunately, the trail has been downhill the whole way—the only reason I've managed to keep up.
 
-Oh my, this is taking a while. Before, I was able to catch up every time that I was falling behind, but I can barely follow at a distance now. How long are we going to keep walking? Annoyingly now I’m not only exhausted, I do have to pee too. But if I stop for even a moment I don’t think I’ll be able to catch up. But I can’t hold it anymore. Please, stop for a moment.
+My paws, this is taking forever. Earlier, I could catch up whenever I started to fall behind, but now I can barely trail behind at all. How much longer are we going to walk? To make matters worse, I'm not just exhausted anymore—I desperately have to pee. But if I stop even for a second, I know I'll never catch up. Still, I can't hold it any longer. Please, just stop for a moment.
 
-“Meowww”
+*Meowww.*
 
-The two-legged being stopped! No time to waste, a quick hole, and... uff... what a relief. Ok, ready, we can continue. Thank you.
+The creature stopped! No time to waste—a frantic scrape at the dirt, and... *ahhh...* sweet relief. Alright, done. We can go now. Thank you.
 
-“Meow”
+*Meow.*
 
-And it resumes walking to my sign. No doubt, it’s an invitation. I hope there’s food at the end of this, I feel lighter after peeing, but I’m still exhausted, and thinking of food has revived the sting of hunger.
+At my call, it resumes walking. No doubt about it—this is an invitation. I just hope there’s food at the end of this trail. I feel lighter after peeing, but my strength is still completely spent, and just thinking about eating has brought back that sharp sting of hunger.
 
-Another long while walking. Always downhill, and yet my steps are starting to feel too heavy. I want to rest so much, but I’ll lose the two-legged being if I do. Come on, keep following.
+Another long stretch of walking. Still downhill, yet my paws feel heavier with every step. I want to rest so badly, but I’ll lose the creature if I do. Come on, keep moving.
 
-And I’m sitting. I can’t anymore, I went way beyond what I thought I could walk in my condition, I need to rest a little, just a little bit.
+And my legs give out—I’m sitting. I can't go another step. I’ve pushed far past what I thought was possible in this state. I need to rest. Just for a moment.
 
-No!, the two-legged being is not stopping. I can’t follow you. Seriously, I want to, but I can’t. Please stop, let me rest a bit.
+No! The creature isn't stopping. I can’t follow you. Truly, I want to, but I can’t. Please stop. Just let me rest a little.
 
-“Meowww”
+*Meowww.*
 
-It turns around, sees me and... stops! Thank you.
+It turns around, sees me, and... stops! Thank you.
 
-Ah, a little breeze. It feels nice, let me bask in it for a moment.
+Ah, a gentle breeze. It feels so nice—let me just soak it in for a moment.
 
-I wonder how this will end. I haven’t seen the other two beings for a long time now. They kept walking faster, I suppose they must be much further away by now.
+I wonder how this will end. I haven’t seen the other two creatures in a long time. With how fast they were moving, they must be a dozen bends down the slope by now.
 
-All right, I think I can walk a bit more. Better I don’t delay this, I can’t risk the two-legged being changing its mind if I linger too long. Let’s go, thank you for waiting.
+Alright, I think I can walk a little more. Best not to push my luck—I can’t risk the creature changing its mind if I linger too long. Let’s go. Thank you for waiting.
 
-“Meow”
+*Meow.*
 
-Ah, I can catch up to the two-legged being once more. And I’m even able to follow its pace without falling behind. This little rest has worked wonders. It feels much better to walk at its side than at a distance behind. I think the two-legged being likes it too. It keeps quiet without giving any obvious signal, as it has been the whole time, but I can sense it.
+Ah, I can catch up with the creature again. And I’m even matching its pace without falling behind. That little rest worked wonders. Walking right by its side feels so much better than trailing behind in the dirt. I think the creature likes it, too. It stays quiet without giving any obvious sign—just as it has the whole time—but I can sense it.
 
-We’re leaving the path? Ah, I understand it, it’s a shortcut. The being must be concerned about me. How nice of you. It’s quite steep, but short. Just a couple of small jumps down and we’re back in the path. And look, at the end of the path I can see the rugged grey ground where it all started.
+We’re leaving the path? Ah, I understand—a shortcut. The creature must be worried about me. How sweet of you. It’s quite steep, but short. Just a couple of quick hops down and we’re back on the trail. And look—at the end among the trees, I can see it: the coarse, hard gray ground where it all began.
 
-The benefits of the brief rest are starting to wear off, but I still manage to reach the edge of the rugged ground walking side by side with the being. The two-legged being pauses for a moment there, and then starts crossing the rugged ground. I want to follow, but a rush of bad memories come to me and I hesitate. It doesn’t help either that this rugged ground feels so empty and exposed. But the two-legged being doesn’t need my plea to stop this time. Of its own accord, it stops in the middle of the rugged ground, turned towards me, clearly expecting me to cross the rugged ground too. It’s keeping an eye on me at all times now, except for occasional quick glances at both long sides of the rugged ground, as if something could come from there.
+The strength from that brief rest is fading fast, but I still manage to reach the edge of the hard stone side by side with the creature. It pauses there for a moment, then steps out to cross. I want to follow, but a wave of terrible memories rushes over me, and my paws freeze. It doesn’t help that the gray expanse feels so bare and exposed. But the creature doesn’t need my plea to stop this time. Of its own accord, it halts right in the middle, facing back toward me, clearly waiting for me to cross as well. It’s keeping its eyes on me now, only breaking away for quick, wary glances along both directions of the open gray strip, as if something might come tearing from the distance.
 
-All right, I’ve come this far, it doesn’t make sense to stop here now. There, here I come. See, I’m next to you once more, even in the middle of this exposed and alien ground. Curiously we don’t cross the rugged ground, instead we start walking along it and... Hey, I can see the other two beings in the distance. They’re in an empty area made of hard sand, similar to our previous path. It follows the left side of the rugged ground for about five fallen trees long, and it forms a curved shape of about one fallen tree wide in its widest point. It’s surrounded by forest at the parts where the curve connects with the rugged ground, and a cliff on the widest part. Next to the two-legged beings there’s one of those large four-wheeled cages. We’re walking towards them apparently. I wonder if this is our destination. Maybe they store the food in the cage?
+Alright, I’ve come this far—it makes no sense to turn back now. There. Here I come. See? I’m right beside you again, even out in the middle of this bare, dangerous clearing. Curiously, we don’t cross all the way. Instead, we start walking along its length, and... hey, I can see the other two creatures in the distance. They’re standing in an open patch of packed dirt, just like the trail we left behind. It hugs the left edge of the stone strip for about five fallen trees, starting narrow on our end and swelling outward, opening at its farthest point to about a fallen tree wide. Thick woods press against both ends, while a cliff edge falls away behind it. Next to the creatures sits one of those large four-wheeled cages. We’re heading straight for it. I wonder if this is the end of the journey. Could they keep food inside that cage?
 
-The possibility of food removes the last remnants of fear from feeling exposed in the rugged ground, and I follow at the side of my two-legged being travel companion without hesitation. Soon we reach the beginning of the empty area. The area is mostly flat, except on this side, where it descents smoothly towards its center. Mmm... one of the two-legged beings next to the large cage, the one that I first met, is telling me something. I think it’s encouraging me to come closer. Don’t tell me you have food?! All my body gets excited at the possibility, my muscles somehow muster a resemblance of rigidness and strength, my tail raises and starts undulating slowly in a cautious anticipation, my ears point forward to make sure I don’t miss any important sign, and, incredibly, my legs start to accelerate the pace and I leave behind my travel companion.
+The thought of food sweeps away whatever fear was left of being out on the bare stone, and I stay glued to the side of my two-legged companion without hesitation. Soon, we reach the edge of the dirt clearing. It’s mostly flat, except here at the mouth, where the ground dips down toward the center. Mmm... one of the creatures by the cage—the very first one I met—is calling out to me. Beckoning me closer, I think. Don’t tell me you have food?! A thrill ripples through my entire body. My muscles somehow find a sudden spark of strength, my tail arches high, swaying softly in cautious hope, and my ears swivel forward so I don’t miss a single sign. And then, as if my paws had a mind of their own, they pick up speed—leaving my fellow traveler behind in the dust.
 
-As I’m approaching the two-legged beings next to the cage, one enters in the cage to sit in a soft L shaped object that extends the cage from side to side, while the other one, the one that has been encouraging me to come, signals me the interior of the cage too, in the same opening where the other being is sitting. That’s it, the being inside the cage must have food and the being outside is pointing me towards it. What else could they be signaling otherwise? Just a couple of steps more, and here I am, next to you. The food is in the cage you say, right? There, two steps more and I’m at the opening in the cage. Let me peek inside by standing up with my two front paws at the edge of the opening and my nose scanning the inside. “Sniff”, “sniff”... Where is the food? Hey, why are you lifting me towards the inside of the cage? The being inside the cage is moving its hands towards me. Do you hold the food in them? “Sniff”, “sniff”... where is the foo... hey, why are you grabbing me too and putting me on your lap?
+As I near the cage, one of the creatures slips inside to sit on a wide, padded ledge that spans the interior from side to side. The other one—the one that had been coaxing me forward—gestures toward the opening where the first creature just settled. That’s it! The one inside must have the food, and this creature is pointing the way. What else could all this waving mean?
 
-“Bam!”
+Just a couple more bounds and I’m right at your feet. The food is inside, you say? Two more steps, and I reach the opening. Standing tall on my hind legs, I prop my front paws against the sill to peer in, nose twitching as I scan the air. *Sniff*, *sniff*... Where is it?
 
-Oh no, the cage has closed! No!
+Hey—why are you scooping me up toward the inside?
 
-“Meowww”
+The creature resting inside reaches its hands out toward me. Are you holding food in them? *Sniff*, *sniff*... Where is the foo—hey! Why are you grabbing me, too, and pulling me right into your lap?
 
-“Clack, clack”
+*Thud!*
 
-The cage opens further at the front, at both sides. There’s a tall soft object in front of me that prevents me from seeing them from my trapped position, but I recognize the by now familiar sounds of the other two-legged beings entering the cage. The one that I first met at the left side, and my travel companion at the right.
+Oh no—the cage has snapped shut! No!
 
-“Bam!, Bam!”
+*Meowww.*
 
-And the cage is closed again. I’m so scared.
+*Clack, clack.*
 
-“Meowww”
+Up front, the sides of the cage pull open. A tall, padded barrier rises right in front of me, blocking the view from my trapped spot, but I can hear the familiar sounds of the other two creatures ducking inside: the one that I first met slipping in on the left, and my journey companion on the right.
 
-This is like the other time. It’s over. Why? What have I done wrong?
+*Thud! Thud!*
 
-“Meowww”
+And the cage is sealed again. I’m so scared.
 
-The cage starts to roar and, exactly like in the first cage that brought me here, the world outside the cage starts to move.
+*Meowww.*
 
-“Meowww”
+It’s just like last time. It’s over. Why? What did I do wrong?
 
-The being holding me on its lap is caressing me with one of its fingers, while still firmly immobilizing me. The caress has a nice tranquilizing effect. Maybe it’s different than the other time after all? There is no yelling, instead the being in the front left is telling me something in a friendly tone. I can sense a mix of tenderness and sadness directed towards me. And I can see the head of my travel companion rising above the L shaped object where it’s sitting at the front right. Its look shows the same mix of tenderness and sadness as the voice of the other being, also directed towards me. They seem good. Still, if that’s the case, why have they tricked me and put me in this cage? I trusted you, I spent the few energy reserves I had left for you.
+*Meowww.*
 
-“Meowww”
+The cage begins to rumble, and just like that first hollow trap that brought me here, the world outside starts to slide away.
 
-The being holding me moves me to its right side, letting me flat on the soft L shaped object. Once there its left hand slides along my back to my neck, exercising a soft but firm downward push that immobilises me with a single hand. Afterwards, the other hand ungrabs me and I hear it stirring something that makes a crunchy noise. Shortly after, the free hand rises my behind slightly and slides what feels like a soft fabric around me. Then, with the hand holding me, it rises my front while it tries to slide the soft fabric further up along my body. I notice the fabric wrapping around my front legs and I manage to move them forward so they don’t get trapped. This repeats a couple of times more, with the being trying to slide the fabric around my front legs, and me managing to move them forward away from getting trapped. Why are you doing this?
+*Meowww.*
 
-“Meowww”
+The creature holding me in its lap strokes me gently with a finger, never loosening its firm grip. The soothing touch slowly works its way into my fur. Maybe this isn’t like last time after all? There is no shouting. Instead, the creature in the front left speaks to me in soft, friendly murmurs—I can feel a strange ache of tenderness and sorrow in its voice, aimed right at me. Then, just over the cushioned barrier on the front right, my journey companion’s head turns around. Its eyes carry that exact same sorrow and gentle warmth. They seem kind.
 
-Eventually the being manages to push my front legs inside the fabric and close the gap around my neck with the legs inside. I have my entire body, legs included, inside a sack, with only my head popping out from an opening closed around my neck. Why?
+Still... if they are kind, why did they lure me into this cage? I trusted you. I burned through every shred of strength I had left just to stay with you.
 
-“Meowww”
+*Meowww.*
 
-I see how my travel companion at the front right raises from its seat, places a leg through the gap between the two tall soft objects where the beings in the front have been sitting all this time, and clumsily crosses the gap to sit at my right. Right after, I feel its caress through the sack on my right side. It should be comforting, but I’m too scared.
+The creature holding me shifts me to its right, setting me flat onto the padded surface. Its left hand slides up along my back to the back of my neck, pressing down gently but firmly to keep me pinned in place with one palm. Then the other hand lets go. Beside me, I hear it rustling through something that crackles and crunches.
 
-I can’t see the forest outside the cage now, only the sky. When have we left the forest? I haven’t even noticed. And what’s this trembling? It’s faster and more regular than the unpredictable rocking movement of the cage. Oh, it’s me. My body is shaking from fear. Please, put an end to this.
+Moments later, that free hand lifts my rear off the seat and slides a soft fabric pouch around my hind legs. Then, easing up on its grip, it tries to pull the opening of the pouch farther along my body. But the moment the rim brushes against my front legs, I kick my paws forward so they don’t get trapped inside. The creature tries again, tugging the soft ring of fabric up over my chest, and every time, I scramble my paws forward, keeping them safely out in the open.
 
-“Meowww”
+Why are you doing this? What are you trying to put me in?
 
-We go on like this for a while, me inside the sack laying flat between the two beings, while the one at the left makes sure that I don’t move and the one at the right caresses me though the sack. I manage a couple of times to put a leg outside the sack, but it’s promptly pushed back inside. Somehow my fear starts to diminish, I’m no longer trembling. Maybe due to the caresses, maybe due to the friendly voices I hear from them towards me, maybe due to the exhaustion finally penetrating through my fear. Probably due to all of them.
+*Meowww.*
+
+Eventually, the creature manages to guide my front paws inside the cloth and draws the rim tight around my neck. Now my entire body is sealed within the pouch, every limb pinned close, with only my head poking out through the gathered opening. Why?
+
+*Meowww.*
+
+Up front, my journey companion rises, twisting around to face the back. It squeezes a long leg through the narrow channel between the two padded barriers, shifting its weight and awkwardly clambering through the gap until it settles down right beside me. A moment later, I feel its hand stroking my flank through the fabric. It should be comforting, but the terror is still too loud.
+
+Through the transparent barriers of the cage, the forest is gone. All I can see now is empty sky. When did the trees disappear? I didn't even notice. And what is this strange fluttering beneath my fur? It’s humming faster, more evenly than the heavy rocking of the cage beneath us. Oh... it’s me. My own body is shivering with terror. Please, make it stop.
+
+*Meowww.*
+
+We travel on like this for a long time: me pinned flat between the two creatures inside the pouch, the one on the left keeping me gently weighed down while the one on the right strokes my flank through the cloth. Once or twice, I manage to work a paw free past the gathered rim, but a gentle hand nudges it straight back inside.
+
+Slowly, the terror begins to loosen its grip. The violent trembling subsides. Maybe it’s the warmth of their hands soaking through the cloth, maybe the soothing rhythm of their murmurs, or maybe bone-deep exhaustion is finally breaking through the panic. Probably all of it together.
 
 I yawn.
 
-Eventually the sky is replaced by strange tall dull flat rocks. I think I saw similar tall rocks the day I was brought to the forest, but these ones look somehow different.
+Eventually, the open sky is swallowed by strange, towering flat stones rising in straight, unnatural walls. I think I caught glimpses of similar cliffs the day I was brought to the forest, but these look somehow different.
 
-The tall rocks keep flying by, until the roaring cage stops next to one of them, the cage opens at the front-left side, the two-legged being sitting there leaves the cage, and the opening closes again. Shortly after I hear a rocklike noise, but sharper, coming from the tall rock, followed by a repeating rumble noise, like a rock sliding, but sharper too. Then the sliding rocklike noise stops, and silence takes over, broken only by the now soft roaring of the cage, like if it was deeply asleep. The soft roaring has a relaxing effect on me, and my eyes are starting to feel heavy. Or maybe it’s just the exhaustion.
+The tall stone walls keep gliding past until the roaring cage finally rolls to a stop beside one of them. The front-left barrier swings open, the creature sitting there slips out into the air, and the gap seals shut once more.
 
-This peace is short lived though. The cage opens again at the front-left side, the being reenters the cage, and the opening closes again. Then the cage awakens, and after a disconcerting back and forward maneuver, it enters the tall rock moving backwards. My temporary relaxation is instantaneously replaced by tension and alertness. What’s going on? I don’t even dare to say anything.
+Moments later, a sharp, ringing snap echoes from the foot of the wall, followed by a harsh, shuddering rattle that rolls upward—like a strange, hollow sheet of stone grinding over itself. Then the grinding cuts off. Everything outside falls still, broken only by the low, steady purr of the cage beneath my paws, as if the beast had slipped into a deep, rhythmic slumber.
 
-Once fully inside the tall rock, the cage stops moving and roaring. This time it doesn’t do the soft roaring, but instead it goes absolutely quiet. Then, once more, the cage opens at the front-left, the being sitting next to it leaves the cage, and the opening closes right afterwards. Shortly after I hear the rock sliding sound, which ends with an abrupt impact sound, as if the rock hit another rock. And then I’m taken out from the sack, the cage opens at both of my sides, and I’m put down on a flat floor that feels like a smooth rock.
+The muffled vibration hums through the padded surface beneath me, soothing and warm. My eyelids begin to droop. Or maybe it’s just the exhaustion finally dragging me under.
 
-At first I don’t move, but then curiosity takes over and I follow an inspection route. I find myself in what looks to be a large chamber of a cave. It reminds me of the den of the previous two-legged beings I was with: a flat floor, four flat walls and a flat roof, with all sorts of strange objects lying around. This chamber is larger than any of the chambers from the previous den though. And it doesn’t have any exits or views to the outside. I only see walls, not even the entrance through which the cage entered the chamber. The distribution of the strange objects is also different. Here all the objects are either hanging from the walls or laying on the floor next to the walls, but there isn’t any object in the middle of the chamber besides the wheeled cage, now resting immobile and quiet. The three beings are also in the chamber with me.
+But the peace doesn't last. The front-left barrier pulls open again, the creature ducks back inside, and the gap seals shut. Then the beast shudders awake. After a jarring lurch forward and back, the whole cage begins to slide backward, slipping tail-first into the hollow belly beneath the tall stone.
 
-Or rather, they were with me, I only see two now. One of the beings, the first one I met, is unrolling a large fabric on the floor. The other being, the one that was holding me, is inside a cavity on one side of the walls, with its back facing me. Sound of running water is coming from there. Then the sound stops, and the being turns around and starts walking towards me. It’s carefully holding a bowl in its hands, and as it lowers the bowl to the floor it tells me nice and encouraging things. Is there water in there?
+In an instant, every trace of comfort vanishes, replaced by rigid, razor-sharp alertness. What is happening? I don’t even dare make a sound.
 
-“Meow”
+Once we are deep inside the hollow of the tall stone, the cage stops rolling, its low roar cutting out entirely. This time there is no gentle, sleepy purr—only sudden, absolute silence.
 
-I approach the bowl, and indeed, it’s water! I start eagerly drinking. And drinking. And drinking. I was so hungry that I didn’t even realise how thirsty I was too.
+Up front, the left barrier swings open, the creature slips out into the stillness, and the opening snaps shut behind it. A moment later, that harsh, grinding rattle echoes again as the stone sheet slides back down, ending in a heavy, shuddering thud, like rock slamming against rock.
 
-When I finally lift my head from the bowl, thirst quenched, I hear the other being telling me nice and encouraging things too. It’s standing next to an enormous fabric that lays on the floor half unrolled. I think it’s inviting me to step on the fabric. It looks cozy.
+Then hands loosen the gathered cloth around my neck, sliding the pouch off my body. Both sides of the cage pull open, letting in the cool, still air. Warm hands lift me through the opening and set me down onto the bare ground—a flat expanse of polished, ice-cold stone.
 
-I walk towards the fabric and step on it straight away. Its soft and scratchy touch is a pleasant change from the hard and cold floor of the chamber. I contract my paws slightly, enough to feel the resistance of the fabric on my claws, sending a relaxing and comforting feeling throughout my body. It’s cozy indeed.
+At first I stand frozen on all fours against the chill of the stone. But curiosity soon coaxes my paws forward, and I begin to wander through the space.
 
-“Clack”
+I find myself inside a tall, enclosed cavern. It reminds me of the den where the previous two-legged creatures kept me: flat stone underpaw, flat walls rising straight up, and a flat ceiling sealing the sky away. But this place feels different. There are no openings, no drafts, not even a trace of the gap where the cage entered—only solid walls locking us inside.
 
-That sound came from the far corner of the chamber. The wheeled cage blocks my view, but looking underneath the cage I spot two feet. I move around the cage to find out the third being, my travel companion, next to a newly formed hole in one of the walls.
+All around, strange, lifeless shapes hang high along the stone or clutter the ground near the edges, leaving the floor open around the cage, now resting motionless and quiet. Nearby, the three creatures are still here with me, busy with their own routines, their familiar presence lingering in the cavern while I explore.
 
-“Clack”
+Or rather, they were with me. When I glance around, I only see two. The first creature I ever met is unrolling a wide, thick sheet of cloth across the bare stone. The other, the one that held me during the journey, stands tucked inside a shallow recess in the wall with its back turned to me. From that opening comes the unmistakable hiss and splash of running water.
 
-And the hole closes. I see, it’s one of those wooden rectangular devices that populate the beings dens between adjacent chambers. So this isn’t the only chamber in this den.
+When the splashing cuts off, the creature turns and walks slowly back toward me, balancing a small, curved hollow between its two palms. It crouches, gently resting the smooth container on the floor while murmuring soft, soothing sounds. Is that water inside?
 
-The being sees me and starts lowering a bowl to the floor too, encouraging me to approach it. I’m curious what’s in the... FOOD!
+*Meow.*
 
-“MEOW!”
+I step forward, and the cool scent hits my nose—water! I dip my head and begin drinking eagerly. And drinking. And drinking. The gnawing ache of hunger had been so loud in my belly that I hadn't even realized how parched my throat was.
 
-I’m here. Put that bowl down. You’re too slow.
+When I finally lift my head from the water, thirst quenched, the other creature begins murmuring softly toward me, its voice filled with the same gentle warmth. It stands beside the enormous sheet of cloth lying half-unrolled across the stone, gesturing low to the ground as if coaxing me over.
 
-“Meow”
+The soft, folded material looks dry and inviting, a thick barrier against the freezing floor.
 
-The first crunchy dry piece that I engulf is the best food I’ve ever eaten. And the second piece. And the third. The fourth and fifth go down simultaneously. The sixth I swallow without bothering to chew. Seventh, eight, ninth... I finish the entire bowl in a blink of an eye. And I’m still hungry.
+I step toward the cloth and plant my paws on it without hesitation. Its coarse, textured surface is an immediate relief from the hard chill of the cavern floor. I flex my toes, sinking my claws just deep enough to catch against the stiff, woven grid, releasing a warm, soothing thrum that ripples all the way through my spine. Soft enough to give beneath my weight, and wonderfully thick against the cold.
 
-“Meow”
+*Clack.*
 
-The two-legged being tilts a bag towards the bowl, and to my immense pleasure more of those crunchy dry pieces drop from the bag to the bowl. I resume eating while the pieces are still falling into the bowl. I eat at a pace that it might seem as if I haven’t eaten the first bowl at all. Maybe it’s the hunger playing tricks, but they taste delicious.
+A sharp, hard snap echoes from the far corner of the cavern. The wheeled cage blocks my view, but looking beneath it I spot two familiar feet. I slip around the back of the cage just in time to see the third creature—my journey companion—standing beside a newly opened gap in the solid wall.
 
-The second bowl also vanishes in a blink of an eye. I’m still hungry, but it isn’t the painful starvation from these last days anymore. So much better. I look for my travel companion hoping for more food, but it’s not next to me anymore. I was so focused on the food that I didn’t notice it had moved away towards the large fabric.
+*Clack.*
 
-I walk back to the fabric, next to my travel companion. The other two beings are also nearby. They’ve been emitting the varied noises that the two-legged beings emit, but this time I don’t feel ignored, rather I feel their attention directed towards me. On one paw I feel safe for the first time in countless days, but on the other paw I’m in an unfamiliar place and the dreadful experiences of the last says still haunt me.
+The wooden slab swings shut, and the gap vanishes. I recognize it now: one of those tall, flat wooden barriers that stand between the different parts of a den. So this vast, cold space isn't the whole den—there are other, deeper spaces hidden beyond the wall.
 
-I drop flat on the fabric on my side, looking at my travel companion, front legs stretching towards it in a mix of gratitude and pleading. Thanks for giving me food and safety, but please don’t leave me now.
+My companion spots me and crouches down, lowering a second curved hollow toward the floor while coaxing me forward with soft murmurs. Curious, I take a step to see what might be in the—FOOD!
 
-And my travel companion kneels and caresses my side. It feels good. It feels comforting. Its hand tenderly caressing my side, while my paw rests on its arm.
+*MEOW!*
 
-We remain like this for a while. Now and then I get up, just to drop straight away on the fabric again, and we repeat the mutual caresses. Comfort slowly pushes fear away, but soon I realise that fear was the gate keeping exhaustion at bay. As soon as comfort displaces fear entirely, I feel the gate opening and exhaustion comes rushing filling my entire body. The cozyness of the fabric becomes an irresistible pull and with the feeling of safety among these three two-legged beings I curl on the fabric and close my eyes.
+I’m right here. Put it down! You’re moving too slow.
+
+*Meow.*
+
+The first dry, crunchy morsel that hits my tongue is the most glorious thing I have ever tasted. And the second piece. And the third. The fourth and fifth go down together. The sixth I swallow whole, not even bothering to chew. Seventh, eighth, ninth... In the blink of an eye, the hollow is licked bare. And my belly is still hollow.
+
+*Meow.*
+
+My journey companion tips a thick, crinkling sack downward, and to my sheer ecstasy, a rattle of fresh, crunchy bites comes tumbling out. I don't even wait for the stream to stop—I dive back in, snapping up pieces mid-fall as they strike the bottom of the hollow. I tear through them so fast it looks as though I never had a first meal at all. Maybe the starving hollow in my belly is playing tricks on me, but every crunch is pure heaven.
+
+The second helping vanishes just as quickly. A lingering hunger still tugs at my belly, but the sharp, stabbing ache of the past days is gone. Such vast relief.
+
+I lift my chin to beg my journey companion for more, but find only empty space beside me. My senses had been so locked onto the food that I never even registered the footsteps moving away toward the thick cloth.
+
+I pad back across the stone to the cloth, settling near my companion while the other two linger close behind. Their voices rise and fall in that strange, rapid chatter tall creatures make, but the tones are soft now. I don't feel ignored or cast aside—every pair of eyes, every warm shift in their posture, is turned gently toward me.
+
+On one paw, a deep, heavy sense of safety settles into my chest for the first time in countless days. But on the other paw, the scent of this territory is entirely alien, and the cold terrors of the past days still twitch beneath my skin, refusing to let my guard drop completely.
+
+I let my body give way, collapsing onto my side against the coarse weave. My gaze remains locked on my journey companion as my front legs stretch outward in an open, desperate reach—a plea carved from both gratitude and terror. Thank you for the feast, thank you for the shelter, but please, do not vanish into the dark again.
+
+As if understanding the trembling reach of my limbs, the creature sinks to its knees and reaches out. A broad, warm palm glides across my flank. The touch is steady, gentle, and infinitely reassuring. Long strokes smooth down my ribs, easing the knots of fear one by one, while my outstretched paw rests softly against the bare, warm skin of its arm.
+
+We remain like this for a long time. Every so often I scramble to my feet, only to collapse right back down onto the textured weave, trading soft touches and purrs with the warm hands above me. Comfort steadily crowds out terror, but in doing so, it unlatches a deeper, older dam. Fear was the only thing keeping the crushing weight of weariness at bay. Now that fear has melted, a heavy, bone-deep exhaustion crashes over my entire body.
+
+The coarse thickness beneath my belly radiates a fierce, magnetic pull. Wrapped in the quiet safety of these three two-legged creatures, my stiff muscles finally yield. I curl tight against the fibers, bury my nose into the weave, and let my eyelids slide shut.
 
 It has been a long day. Many long days.
 
