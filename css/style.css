@@ -1476,6 +1476,26 @@ a.btn-journey:hover {
   margin-bottom: 1.6rem;
 }
 
+/* Sound effects, feline vocalizations & narrative emphasis (*Meow.*, *Clack.*, etc.) */
+.prose em {
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  color: var(--accent-gold-light);
+  transition: color var(--transition-smooth);
+}
+
+[data-theme="light"] .prose em {
+  color: var(--accent-gold-dark);
+}
+
+/* Standalone sound effects / auditory beats on their own paragraph */
+.prose p:has(> em:only-child) {
+  font-size: 1.25rem;
+  letter-spacing: 0.03em;
+  margin: 1.5rem 0;
+}
+
 .chapter-prose img {
   border-radius: var(--radius-md);
   margin: 2.5rem auto;

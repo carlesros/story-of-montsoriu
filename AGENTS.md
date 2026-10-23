@@ -1,88 +1,61 @@
 # AGENTS.md - The Story of Montsoriu
 
-Instructions and guidelines for AI agents working in this repository.
+Agent routing, project overview, and guidelines for AI agents working in this repository.
 
 ---
 
 ## 1. Project Overview
 
 - **Project Name:** The Story of Montsoriu
-- **Type:** Static Website / Digital Book
+- **Type:** Digital Book & Static Website
 - **Framework:** [Eleventy (11ty)](https://www.11ty.dev/) (v3.x)
-- **Concept:** An ongoing online book published as a static website where each chapter is a dedicated webpage.
-- **Narrative:** The book narrates the real-life story and adventures of **Montsoriu**, a cat found near (and named after) the historic **Montsoriu Castle** in Catalonia — or rather, the cat who found her human companions there. The narrative captures her perspective, journey, survival, and daily life.
+- **Narrative:** The real-life story of **Montsoriu**, a cat found near Montsoriu Castle in Catalonia. Chapters are narrated from her sensory, first-person feline perspective.
 
 ---
 
-## 2. Technology Stack & Directory Structure
+## 2. Session Routing Instructions
+
+Depending on the primary goal of the current session, consult the relevant guide:
+
+### A. Narrative & Chapter Editing Sessions
+When writing, editing, reviewing, or formatting chapter text:
+👉 **Read and follow [NARRATIVE.md](file:///c:/Users/carle/Documents/story-of-montsoriu/NARRATIVE.md)**
+- **Contains:** Character voice and feline POV rules, sensory storytelling principles, chapter conventions, and the living **Lexicon & Worldview Glossary** (how Montsoriu refers to humans, vehicles, nature, etc.).
+
+### B. Website & Technical Development Sessions
+When modifying templates, CSS styling, responsive layout, images, or build configuration:
+👉 **Read and follow [WEBSITE.md](file:///c:/Users/carle/Documents/story-of-montsoriu/WEBSITE.md)**
+- **Contains:** Eleventy architecture, Nunjucks layouts in `_includes/`, CSS typography and reading design rules, frontmatter schema, and build/dev server workflows.
+
+---
+
+## 3. Repository Structure
 
 ```text
 story-of-montsoriu/
-├── .eleventy.js                  # Eleventy configuration (passthrough copy, directories)
-├── .eleventyignore               # Files and directories excluded from the build (drafts, docs)
-├── package.json                  # Dependencies and scripts
-├── index.md                      # Book cover / introduction (uses cover.njk layout)
-├── chapter-*.md                  # Individual chapter source files
-├── drafts/                       # Historical chapter drafts (tracked in Git, ignored by Eleventy)
-├── _includes/                    # Nunjucks (.njk) templates and layouts
-│   ├── cover.njk                 # Home/cover layout
-│   ├── chapter.njk               # Chapter layout (with header, navigation, and story content)
-│   └── partials/                 # Reusable layout partials (head, header-actions, footer, scripts)
-├── images/                       # Static media (photos, illustrations, chapter assets)
-│   ├── capitol01/
-│   ├── capitol02/
-│   ├── portada.jpg
-│   └── favicon.png
-├── _site/                        # Generated output directory (build target)
-└── AGENTS.md                     # Agent instructions (this file)
+├── AGENTS.md                     # Central router & project overview (this file)
+├── NARRATIVE.md                  # Narrative guide, voice rules & vocabulary lexicon
+├── WEBSITE.md                    # Eleventy architecture, UI/CSS guidelines & build workflow
+├── .eleventy.js                  # Eleventy configuration
+├── .eleventyignore               # Files excluded from the static build
+├── package.json                  # Dependencies & npm scripts
+├── index.md                      # Book cover & introduction
+├── chapter-*.md                  # Individual published chapter files
+├── drafts/                       # Historical chapter drafts (excluded from build)
+├── _includes/                    # Nunjucks layouts and partials
+│   ├── cover.njk
+│   ├── chapter.njk
+│   └── partials/
+├── css/                          # Stylesheets
+├── images/                       # Media, photos, and chapter cover art
+└── _site/                        # Generated output directory
 ```
 
-### Key Tools & Commands
-
-- **Local Dev Server:** `npm start` (runs `eleventy --serve`)
-- **Production Build:** `npm run build` (runs `eleventy`)
-- **Passthrough Copy:** The `images/` directory is automatically copied directly to `_site/images/`.
-
 ---
 
-## 3. Content Structure & Conventions
+## 4. Universal Rules for All Sessions
 
-### Frontmatter Conventions
-
-Each chapter markdown file should follow standard frontmatter conventions:
-
-```markdown
----
-layout: chapter.njk
-title: "Chapter 1: Determined to Live"
-date: 2018-09-14
-location: Near the castle Montsoriu
-prev: /                         # (or previous chapter path)
-next: /chapter-2-slug/
----
-```
-
-### File Naming
-- Chapters use kebab-case file names: `chapter-<number>-<slug>.md` (e.g., `chapter-1-determined-to-live.md`).
-- Landing/cover page: `index.md`.
-
-### Narrative Voice & Tone
-- The story is written with emotional resonance, warmth, and attention to sensory details (smells, sounds, feelings), often capturing the world from the cat's perspective.
-- When drafting, formatting, or editing text, maintain the author's authentic storytelling voice and respect original markdown punctuation and structure.
-
----
-
-## 4. UI, Styling & Reading Experience
-
-- **Reading-Focused Design:** Prioritize typography, readable line lengths (60–75 characters per line), comfortable line height, and distraction-free layouts suitable for long-form reading.
-- **Navigation:** Ensure seamless chapter-to-chapter navigation (Next / Previous buttons, chapter index, return to cover).
-- **Semantics & Accessibility:** Use valid semantic HTML5 (`<header>`, `<main>`, `<article>`, `<nav>`, `<footer>`) with descriptive headings and proper image alt text.
-- **Templates:** Keep layouts modular in `_includes/` using Nunjucks (`.njk`).
-
----
-
-## 5. Agent Workflow Guidelines
-
-1. **Understand Before Modifying:** Check existing templates in `_includes/` and content files before adding new layouts or altering styles.
-2. **Preserve Content Integrity:** Never overwrite or discard narrative text unless explicitly instructed.
-3. **Verify Builds:** Ensure that additions (new chapters, templates, assets) build cleanly without broken Eleventy links or missing layouts.
+1. **Preserve Content Integrity:** Never overwrite, delete, or summarize away narrative passages unless explicitly requested by the author.
+2. **Verify Changes:** 
+   - If editing templates or web code, run `npm run build` to confirm the site compiles cleanly.
+   - If editing narrative, ensure frontmatter metadata and file naming match the project conventions.

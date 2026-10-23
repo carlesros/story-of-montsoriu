@@ -86,7 +86,7 @@ My paws, this is taking forever. Earlier, I could catch up whenever I started to
 
 *Meowww.*
 
-The creature stopped! No time to waste—a frantic scrape at the dirt, and... *ahhh...* sweet relief. Alright, done. We can go now. Thank you.
+The creature stopped! No time to waste—a frantic scrape at the dirt, and... ahhh... sweet relief. Alright, done. We can go now. Thank you.
 
 *Meow.*
 
@@ -116,17 +116,17 @@ We’re leaving the path? Ah, I understand—a shortcut. The creature must be wo
 
 The strength from that brief rest is fading fast, but I still manage to reach the edge of the hard stone side by side with the creature. It pauses there for a moment, then steps out to cross. I want to follow, but a wave of terrible memories rushes over me, and my paws freeze. It doesn’t help that the gray expanse feels so bare and exposed. But the creature doesn’t need my plea to stop this time. Of its own accord, it halts right in the middle, facing back toward me, clearly waiting for me to cross as well. It’s keeping its eyes on me now, only breaking away for quick, wary glances along both directions of the open gray strip, as if something might come tearing from the distance.
 
-Alright, I’ve come this far—it makes no sense to turn back now. There. Here I come. See? I’m right beside you again, even out in the middle of this bare, dangerous clearing. Curiously, we don’t cross all the way. Instead, we start walking along its length, and... hey, I can see the other two creatures in the distance. They’re standing in an open patch of packed dirt, just like the trail we left behind. It hugs the left edge of the stone strip for about five fallen trees, starting narrow on our end and swelling outward, opening at its farthest point to about a fallen tree wide. Thick woods press against both ends, while a cliff edge falls away behind it. Next to the creatures sits one of those large four-wheeled cages. We’re heading straight for it. I wonder if this is the end of the journey. Could they keep food inside that cage?
+Alright, I’ve come this far—it makes no sense to turn back now. There. Here I come. See? I’m right beside you again, even out in the middle of this bare, dangerous clearing. Curiously, we don’t cross all the way. Instead, we start walking along its length, and... hey, I can see the other two creatures in the distance. They’re standing in an open patch of packed dirt, just like the trail we left behind. It hugs the left edge of the stone strip for about five fallen trees, starting narrow on our end and swelling outward, opening at its farthest point to about a fallen tree wide. Thick woods press against both ends, while a cliff edge falls away behind it. Next to the creatures sits another of those enormous, silent cages. We’re heading straight for it. I wonder if this is the end of the journey. Could they keep food inside that cage?
 
 The thought of food sweeps away whatever fear was left of being out on the bare stone, and I stay glued to the side of my two-legged companion without hesitation. Soon, we reach the edge of the dirt clearing. It’s mostly flat, except here at the mouth, where the ground dips down toward the center. Mmm... one of the creatures by the cage—the very first one I met—is calling out to me. Beckoning me closer, I think. Don’t tell me you have food?! A thrill ripples through my entire body. My muscles somehow find a sudden spark of strength, my tail arches high, swaying softly in cautious hope, and my ears swivel forward so I don’t miss a single sign. And then, as if my paws had a mind of their own, they pick up speed—leaving my fellow traveler behind in the dust.
 
 As I near the cage, one of the creatures slips inside to sit on a wide, padded ledge that spans the interior from side to side. The other one—the one that had been coaxing me forward—gestures toward the opening where the first creature just settled. That’s it! The one inside must have the food, and this creature is pointing the way. What else could all this waving mean?
 
-Just a couple more bounds and I’m right at your feet. The food is inside, you say? Two more steps, and I reach the opening. Standing tall on my hind legs, I prop my front paws against the sill to peer in, nose twitching as I scan the air. *Sniff*, *sniff*... Where is it?
+Just a couple more bounds and I’m right at your feet. The food is inside, you say? Two more steps, and I reach the opening. Standing tall on my hind legs, I prop my front paws against the sill to peer in, nose twitching as I scan the air. *Sniff, sniff...* Where is it?
 
 Hey—why are you scooping me up toward the inside?
 
-The creature resting inside reaches its hands out toward me. Are you holding food in them? *Sniff*, *sniff*... Where is the foo—hey! Why are you grabbing me, too, and pulling me right into your lap?
+The creature resting inside reaches its hands out toward me. Are you holding food in them? *Sniff, sniff...* Where is the foo—hey! Why are you grabbing me, too, and pulling me right into your lap?
 
 *Thud!*
 
@@ -184,7 +184,7 @@ I yawn.
 
 Eventually, the open sky is swallowed by strange, towering flat stones rising in straight, unnatural walls. I think I caught glimpses of similar cliffs the day I was brought to the forest, but these look somehow different.
 
-The tall stone walls keep gliding past until the roaring cage finally rolls to a stop beside one of them. The front-left barrier swings open, the creature sitting there slips out into the air, and the gap seals shut once more.
+The tall stone walls keep slipping past until the roaring cage finally glides to a halt beside one of them. The front-left barrier swings open, the creature sitting there slips out into the air, and the gap seals shut once more.
 
 Moments later, a sharp, ringing snap echoes from the foot of the wall, followed by a harsh, shuddering rattle that rolls upward—like a strange, hollow sheet of stone grinding over itself. Then the grinding cuts off. Everything outside falls still, broken only by the low, steady purr of the cage beneath my paws, as if the beast had slipped into a deep, rhythmic slumber.
 
@@ -194,7 +194,7 @@ But the peace doesn't last. The front-left barrier pulls open again, the creatur
 
 In an instant, every trace of comfort vanishes, replaced by rigid, razor-sharp alertness. What is happening? I don’t even dare make a sound.
 
-Once we are deep inside the hollow of the tall stone, the cage stops rolling, its low roar cutting out entirely. This time there is no gentle, sleepy purr—only sudden, absolute silence.
+Once we are deep inside the hollow of the tall stone, the cage comes to a rest, its low roar cutting out entirely. This time there is no gentle, sleepy purr—only sudden, absolute silence.
 
 Up front, the left barrier swings open, the creature slips out into the stillness, and the opening snaps shut behind it. A moment later, that harsh, grinding rattle echoes again as the stone sheet slides back down, ending in a heavy, shuddering thud, like rock slamming against rock.
 
@@ -222,7 +222,7 @@ I step toward the cloth and plant my paws on it without hesitation. Its coarse, 
 
 *Clack.*
 
-A sharp, hard snap echoes from the far corner of the cavern. The wheeled cage blocks my view, but looking beneath it I spot two familiar feet. I slip around the back of the cage just in time to see the third creature—my journey companion—standing beside a newly opened gap in the solid wall.
+A sharp, hard snap echoes from the far corner of the cavern. The silent cage blocks my view, but looking beneath its low belly I spot two familiar feet. I slip around the back of the cage just in time to see the third creature—my journey companion—standing beside a newly opened gap in the solid wall.
 
 *Clack.*
 
