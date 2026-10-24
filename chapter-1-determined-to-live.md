@@ -122,7 +122,7 @@ The thought of food sweeps away whatever fear was left of being out on the bare 
 
 As I near the cage, one of the creatures slips inside to sit on a wide, padded ledge that spans the interior from side to side. The other one—the one that had been coaxing me forward—gestures toward the opening where the first creature just settled. That’s it! The one inside must have the food, and this creature is pointing the way. What else could all this waving mean?
 
-Just a couple more bounds and I’m right at your feet. The food is inside, you say? Two more steps, and I reach the opening. Standing tall on my hind legs, I prop my front paws against the sill to peer in, nose twitching as I scan the air. *Sniff, sniff...* Where is it?
+Just a couple more bounds and I’m right at your feet. The food is inside, you say? Two more steps, and I reach the opening. Standing tall on my hind legs, I prop my front paws against the metal rim to peer in, nose twitching as I scan the air. *Sniff, sniff...* Where is it?
 
 Hey—why are you scooping me up toward the inside?
 
@@ -160,7 +160,7 @@ Still... if they are kind, why did they lure me into this cage? I trusted you. I
 
 The creature holding me shifts me to its right, setting me flat onto the padded surface. Its left hand slides up along my back to the back of my neck, pressing down gently but firmly to keep me pinned in place with one palm. Then the other hand lets go. Beside me, I hear it rustling through something that crackles and crunches.
 
-Moments later, that free hand lifts my rear off the seat and slides a soft fabric wrap around my hind legs. Then, easing up on its grip, it tries to pull the opening of the cloth farther along my body. But the moment the rim brushes against my front legs, I kick my paws forward so they don’t get trapped inside. The creature tries again, tugging the soft ring of fabric up over my chest, and every time, I scramble my paws forward, keeping them safely out in the open.
+Moments later, that free hand lifts my rear and slides a soft fabric wrap around my hind legs. Then, easing up on its grip, it tries to pull the opening of the cloth farther along my body. But the moment the rim brushes against my front legs, I kick my paws forward so they don’t get trapped inside. The creature tries again, tugging the soft ring of fabric up over my chest, and every time, I scramble my paws forward, keeping them safely out in the open.
 
 Why are you doing this? What are you trying to put me in?
 
@@ -202,7 +202,7 @@ Then hands loosen the gathered cloth around my neck, sliding the pouch off my bo
 
 At first I stand frozen on all fours against the chill of the stone. But curiosity soon coaxes my paws forward, and I begin to wander through the space.
 
-I find myself inside a tall, enclosed cavern. It reminds me of the den where the previous two-legged creatures kept me: flat stone underpaw, flat walls rising straight up, and a flat ceiling sealing the sky away. But this place feels different. There are no openings, no drafts, not even a trace of the gap where the cage entered—only solid walls locking us inside.
+I find myself inside a tall, enclosed cavern. It reminds me of the den where the previous two-legged creatures kept me: flat stone underpaw, flat stone walls rising straight up, and a flat stone roof sealing the sky away. But this place feels different. There are no openings, no drafts, not even a trace of the gap where the cage entered—only solid walls locking us inside.
 
 All around, strange, lifeless shapes hang high along the stone or clutter the ground near the edges, leaving the floor open around the cage, now resting motionless and quiet. Nearby, the three creatures are still here with me, busy with their own routines, their familiar presence lingering in the cavern while I explore.
 
