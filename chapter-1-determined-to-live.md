@@ -160,13 +160,13 @@ Still... if they are kind, why did they lure me into this cage? I trusted you. I
 
 The creature holding me shifts me to its right, setting me flat onto the padded surface. Its left hand slides up along my back to the back of my neck, pressing down gently but firmly to keep me pinned in place with one palm. Then the other hand lets go. Beside me, I hear it rustling through something that crackles and crunches.
 
-Moments later, that free hand lifts my rear off the seat and slides a soft fabric pouch around my hind legs. Then, easing up on its grip, it tries to pull the opening of the pouch farther along my body. But the moment the rim brushes against my front legs, I kick my paws forward so they don’t get trapped inside. The creature tries again, tugging the soft ring of fabric up over my chest, and every time, I scramble my paws forward, keeping them safely out in the open.
+Moments later, that free hand lifts my rear off the seat and slides a soft fabric wrap around my hind legs. Then, easing up on its grip, it tries to pull the opening of the cloth farther along my body. But the moment the rim brushes against my front legs, I kick my paws forward so they don’t get trapped inside. The creature tries again, tugging the soft ring of fabric up over my chest, and every time, I scramble my paws forward, keeping them safely out in the open.
 
 Why are you doing this? What are you trying to put me in?
 
 *Meowww.*
 
-Eventually, the creature manages to guide my front paws inside the cloth and draws the rim tight around my neck. Now my entire body is sealed within the pouch, every limb pinned close, with only my head poking out through the gathered opening. Why?
+Eventually, the creature manages to guide my front paws inside the cloth and draws the rim tight around my neck. Now my entire body is sealed within a pouch, every limb pinned close, with only my head poking out through the gathered opening. Why?
 
 *Meowww.*
 
@@ -186,11 +186,11 @@ Eventually, the open sky is swallowed by strange, towering flat stones rising in
 
 The tall stone walls keep slipping past until the roaring cage finally glides to a halt beside one of them. The front-left barrier swings open, the creature sitting there slips out into the air, and the gap seals shut once more.
 
-Moments later, a sharp, ringing snap echoes from the foot of the wall, followed by a harsh, shuddering rattle that rolls upward—like a strange, hollow sheet of stone grinding over itself. Then the grinding cuts off. Everything outside falls still, broken only by the low, steady purr of the cage beneath my paws, as if the beast had slipped into a deep, rhythmic slumber.
+Moments later, a sharp, ringing snap echoes from the foot of the wall, followed by a harsh, shuddering rattle that rolls upward—like a strange, hollow sheet of stone grinding over itself. Then the grinding cuts off. Everything outside falls still, broken only by the low, steady purr of the cage beneath my paws, as if it had slipped into a deep, rhythmic slumber.
 
 The muffled vibration hums through the padded surface beneath me, soothing and warm. My eyelids begin to droop. Or maybe it’s just the exhaustion finally dragging me under.
 
-But the peace doesn't last. The front-left barrier pulls open again, the creature ducks back inside, and the gap seals shut. Then the beast shudders awake. After a jarring lurch forward and back, the whole cage begins to slide backward, slipping tail-first into the hollow belly beneath the tall stone.
+But the peace doesn't last. The front-left barrier pulls open again, the creature ducks back inside, and the gap seals shut. Then the cage shudders awake. After a jarring lurch forward and back, the whole cage begins to slide backward, slipping tail-first into the hollow belly beneath the tall stone.
 
 In an instant, every trace of comfort vanishes, replaced by rigid, razor-sharp alertness. What is happening? I don’t even dare make a sound.
 
@@ -214,9 +214,7 @@ When the splashing cuts off, the creature turns and walks slowly back toward me,
 
 I step forward, and the cool scent hits my nose—water! I dip my head and begin drinking eagerly. And drinking. And drinking. The gnawing ache of hunger had been so loud in my belly that I hadn't even realized how parched my throat was.
 
-When I finally lift my head from the water, thirst quenched, the other creature begins murmuring softly toward me, its voice filled with the same gentle warmth. It stands beside the enormous sheet of cloth lying half-unrolled across the stone, gesturing low to the ground as if coaxing me over.
-
-The soft, folded material looks dry and inviting, a thick barrier against the freezing floor.
+When I finally lift my head from the water, thirst quenched, the other creature begins murmuring softly toward me, its voice filled with the same gentle warmth. It stands beside the enormous sheet of cloth lying half-unrolled across the stone, gesturing low to the ground as if coaxing me over. From where I stand, the folded layers look dry and inviting.
 
 I step toward the cloth and plant my paws on it without hesitation. Its coarse, textured surface is an immediate relief from the hard chill of the cavern floor. I flex my toes, sinking my claws just deep enough to catch against the stiff, woven grid, releasing a warm, soothing thrum that ripples all the way through my spine. Soft enough to give beneath my weight, and wonderfully thick against the cold.
 
@@ -226,7 +224,7 @@ A sharp, hard snap echoes from the far corner of the cavern. The silent cage blo
 
 *Clack.*
 
-The wooden slab swings shut, and the gap vanishes. I recognize it now: one of those tall, flat wooden barriers that stand between the different parts of a den. So this vast, cold space isn't the whole den—there are other, deeper spaces hidden beyond the wall.
+The wooden slab swings shut, and the gap vanishes. I recognize it now: one of those tall, flat wooden barriers, like the ones that divided my previous den. So this vast, cold space isn't the whole den—there are other, deeper spaces hidden beyond the wall.
 
 My companion spots me and crouches down, lowering a second curved hollow toward the floor while coaxing me forward with soft murmurs. Curious, I take a step to see what might be in the—FOOD!
 
@@ -240,7 +238,7 @@ The first dry, crunchy morsel that hits my tongue is the most glorious thing I h
 
 *Meow.*
 
-My journey companion tips a thick, crinkling sack downward, and to my sheer ecstasy, a rattle of fresh, crunchy bites comes tumbling out. I don't even wait for the stream to stop—I dive back in, snapping up pieces mid-fall as they strike the bottom of the hollow. I tear through them so fast it looks as though I never had a first meal at all. Maybe the starving hollow in my belly is playing tricks on me, but every crunch is pure heaven.
+My journey companion tips a thick, crinkling bundle downward, and to my sheer ecstasy, a rattle of fresh, crunchy bites comes tumbling out. I don't even wait for the stream to stop—I dive back in, snapping up pieces mid-fall as they strike the bottom of the hollow. I tear through them so fast it looks as though I never had a first meal at all. Maybe the starving hollow in my belly is playing tricks on me, but every crunch is pure heaven.
 
 The second helping vanishes just as quickly. A lingering hunger still tugs at my belly, but the sharp, stabbing ache of the past days is gone. Such vast relief.
 
@@ -250,11 +248,11 @@ I pad back across the stone to the cloth, settling near my companion while the o
 
 On one paw, a deep, heavy sense of safety settles into my chest for the first time in countless days. But on the other paw, the scent of this territory is entirely alien, and the cold terrors of the past days still twitch beneath my skin, refusing to let my guard drop completely.
 
-I let my body give way, collapsing onto my side against the coarse weave. My gaze remains locked on my journey companion as my front legs stretch outward in an open, desperate reach—a plea carved from both gratitude and terror. Thank you for the feast, thank you for the shelter, but please, do not vanish into the dark again.
+I let my body give way, collapsing onto my side against the coarse weave. My gaze remains locked on my journey companion as my front legs stretch outward in an open, desperate reach—a plea carved from both gratitude and terror. Thank you for the feast, thank you for the shelter, but please, do not vanish into the emptiness again.
 
 As if understanding the trembling reach of my limbs, the creature sinks to its knees and reaches out. A broad, warm palm glides across my flank. The touch is steady, gentle, and infinitely reassuring. Long strokes smooth down my ribs, easing the knots of fear one by one, while my outstretched paw rests softly against the bare, warm skin of its arm.
 
-We remain like this for a long time. Every so often I scramble to my feet, only to collapse right back down onto the textured weave, trading soft touches and purrs with the warm hands above me. Comfort steadily crowds out terror, but in doing so, it unlatches a deeper, older dam. Fear was the only thing keeping the crushing weight of weariness at bay. Now that fear has melted, a heavy, bone-deep exhaustion crashes over my entire body.
+We remain like this for a long time. Every so often I scramble to my feet, only to collapse right back down onto the textured weave, trading soft touches in the quiet with the warm hands above me. Comfort steadily crowds out terror, but in doing so, it unlatches a deeper, older dam. Fear was the only thing keeping the crushing weight of weariness at bay. Now that fear has melted, a heavy, bone-deep exhaustion crashes over my entire body.
 
 The coarse thickness beneath my belly radiates a fierce, magnetic pull. Wrapped in the quiet safety of these three two-legged creatures, my stiff muscles finally yield. I curl tight against the fibers, bury my nose into the weave, and let my eyelids slide shut.
 

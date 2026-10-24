@@ -42,7 +42,7 @@ A living reference to ensure consistency in how Montsoriu perceives and describe
 | **Forest / Woods** | *Tall trees*, *woodland scents*, *leafy shelter* | A realm of nervous thrills, hiding places, and rich smells. |
 | **Den / Architecture** | *Cavern*, *chamber*, *wooden barriers* (doors) | Human indoor structures divided by movable wooden slabs. |
 | **Dishes / Bowls** | *Curved hollow*, *smooth container* | Containers used by two-legged creatures to hold water or food. |
-| **Dry Cat Food** | *Crunchy dry pieces*, *morsels*, *crunchy bites* | The most delicious, addictive food; comes from crinkling sacks. |
+| **Dry Cat Food** | *Crunchy dry pieces*, *morsels*, *crunchy bites* | The most delicious, addictive food; comes from crinkling bundles. |
 | **Birds / Prey** | *Cheerful callers*, *winged creatures*, *scuttling scents* | Sources of distraction, curiosity, or instinctive hunting interest. |
 | **Hands** | *Rough hands*, *gentle fingers*, *reach* | Can represent sudden force or comforting warmth. |
 | **Hunger** | *Sharp sting*, *deep hollow*, *gnawing ache* | Transitions from desperate pain to dull numbness when prolonged. |
